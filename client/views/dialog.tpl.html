@@ -1,0 +1,49 @@
+<md-dialog aria-label="Pokemon Commentaries"  ng-cloak>
+  <form name="commentForm" ng-submit="save()">
+  <md-toolbar>
+    <div class="md-toolbar-tools">
+      <h2>Comment about {{pokemon.name}}</h2>
+      <span flex></span>
+      <md-button class="md-icon-button" ng-click="cancel()">
+        <md-icon aria-label="Close dialog"></md-icon>
+      </md-button>
+    </div>
+  </md-toolbar>
+  <md-dialog-content class="dialog-adjustments">   
+    <div class="md-dialog-content">
+      <h2>Send us your ideas and impressions about {{pokemon.name}}</h2>
+      <div layout layout-sm="column">
+        <md-input-container flex>
+          <label>Name</label>
+          <input required ng-model="comment.name" name="clientName">
+          <div ng-messages="commentForm.clientName.$error" ng-if='commentForm.clientName.$dirty'>
+            <div ng-message="required">This field is required.</div>
+          </div>
+        </md-input-container>
+        <md-input-container flex>
+          <label>Email</label>
+          <input required ng-model="comment.email" type="email" name="clientEmail">          
+          <div ng-messages="commentForm.clientEmail.$error"  ng-if='commentForm.clientEmail.$dirty'>
+            <div ng-message="required">This field is required.</div>
+          </div>
+        </div>
+        </md-input-container>
+         <md-input-container flex>
+          <label>Comments</label>
+          <textarea required ng-model="comment.message" columns="1" md-maxlength="50" name="clientMessage"></textarea>
+          <div ng-messages="commentForm.clientMessage.$error"  ng-if='commentForm.clientMessage.$dirty'>
+            <div ng-message="required">This field is required.</div>
+          </div>
+        </md-input-container>
+        </div>
+         <div class="md-actions" layout="row">  
+          <md-button type="submit" class="md-warn">
+            Save
+          </md-button>
+        </div>
+    </div>    
+
+  </md-dialog-content>
+ 
+  </form>
+</md-dialog>

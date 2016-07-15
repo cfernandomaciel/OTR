@@ -1,0 +1,60 @@
+.avatar {
+  width: 96px;
+  height: 96px;
+  float: left;
+}
+
+.md-comment-icon {
+    position:absolute!important;
+    bottom:20px!important;
+    right:20px!important;
+    z-index: 100;
+}
+
+.md-commentnav-overflow {
+  overflow-y: scroll;
+  height: 120px;
+}
+
+.md-sidenav-overflow {
+  overflow-y: scroll;
+  height: 600px;
+}
+
+.md-toolbar-tools h1 {    
+  font-size: inherit;
+  font-weight: inherit;
+  margin: inherit;
+}
+
+
+.inputdemoBasicUsage md-datepicker {
+      margin-top: 18px; }
+.inputdemoBasicUsage .md-datepicker-button {
+  height: 36px;
+  width: 36px;
+  line-height: 36px; }
+.inputdemoBasicUsage .md-datepicker-input-container {
+  margin-left: 2px; }
+
+
+md-toast.flash {
+  background-color: red!important;
+  color: white!important;
+}
+
+.radio {  
+  background-image: url("../../assets/img/old-radio.jpg");
+  background-size: 60%;
+  background-repeat: no-repeat;
+}
+
+.radio-container {
+    border: 1px solid red;  
+    margin-top: 211px;
+    margin-left: 176px;
+    width: 367px;
+    height: 95px;
+    color: rgb(255, 255, 255);
+    background-color: #000000;
+}

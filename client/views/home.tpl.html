@@ -1,0 +1,87 @@
+<div id="main"  layout="column" style="position:relative;" ng-cloak>
+  <md-toolbar class="md-primary">
+    <div class="md-toolbar-tools">
+      <h2 class="md-flex">{{title}}</h2>            
+    </div>
+  </md-toolbar>
+  
+  <div layout="row" layout-wrap layout-fill style="padding-bottom: 32px;" ng-cloak>
+    <md-sidenav class="md-sidenav-left md-whiteframe-z2" md-component-id="left"  md-is-locked-open="$mdMedia('min-width: 33px')"">
+          <md-content layout-padding>              
+              <md-autocomplete ng-disabled="false" md-no-cache="true" md-selected-item="selectedItem" md-search-text-change="searchTextChange(searchText)"
+                  md-search-text="searchText" md-selected-item-change="selectedItemChange(item)" md-items="item in querySearch(searchText)"
+                  md-item-text="item.display" md-min-length="0" placeholder="Search your Show">
+                    <md-item-template>
+                      <span md-highlight-text="searchText" md-highlight-flags="^i">{{item.display}}</span>
+                    </md-item-template>
+                    <md-not-found>
+                      No matches found for "{{searchText}}".
+                    </md-not-found>
+                </md-autocomplete>       
+                <md-list id="vertical-container" class="md-sidenav-overflow">  
+                    <md-list-item class="md-3-line" ng-repeat="show in shows" ng-click="getShow(show.value)" ng-show="searching">
+                    <div class="md-list-item-text" layout="column">
+                      <h3>{{ show.display }}</h3>          
+                    </div>
+                    <md-divider ></md-divider>                      
+                    </md-list-item>                                                  
+                </md-list>
+          </md-content>
+    </md-sidenav>   
+
+    <md-content flex layout-padding>
+        <div layout="column" class="pokemon-stats" ng-controller="episodeCtrl">
+         <md-card ng-show="show.name">             
+              <md-card-content>
+                <img ng-src="{{show.image}}" class="avatar" alt="{{show.name}}" />
+                 <h1 class="md-title"><b>Name:</b> {{show.name}} - {{show.id}}</h1>
+
+                 <h1 class="md-title"><b>Genres:</b> {{show.genre}}</h1>
+
+                 
+                 <md-divider ></md-divider>                      
+                 <div class="md-commentnav-overflow">                    
+                    <div ng-repeat="episode in episodes | orderBy: 'number'">
+                      <div style="width: 80%;">
+                        <span ng-click="turnRadioOn(episode)">
+                        <h3 class="md-title">                        
+                          <span class="md-body-2">{{episode.number}}&nbsp;</span>
+                          <span class="md-body-2">{{episode.name}}</span>                                                      
+                         </h3>
+                         <h3 class="md-title" style="float:right;">
+                           <span class="md-body-2">Date: {{episode.date_aired}}</span>
+                         </h3>
+                         </span>
+                      </div>
+                        <md-divider ></md-divider>                      
+
+                    </div>
+                     
+                 </div>
+                  
+              </md-card-content>              
+         </md-card>
+        </div>
+        <div layout"column" class="pokemon-stats" ng-controller="radioCtrl">
+          <md-card ng-show="program.name"  class="radio">
+            <md-card-content>              
+              
+              <div style="width: 713px; height: 368px;" ">
+                <div class="radio-container">
+                  <h3><span class="md-body-2">&nbsp;&nbsp;{{program.name}}</span></h3>  
+                </div>
+              </div>
+              
+            </md-card-content>
+          </md-card>
+        </div>
+    </md-content> 
+    <!--md-button class="md-fab md-comment-icon" aria-label="Comment" ng-show="pokemon.name"  
+    ng-click="openCommentaryDialog($event)"  ng-controller="commentCtrl">
+        <md-icon md-svg-src="assets/img/icons/ic_chat_24px.svg"></md-icon>
+    </md-button-->     
+  </div>
+    
+    
+  
+</div>

@@ -1,0 +1,622 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="OTRR_Dimension_X_Singles_rules.conf" source="original">
+    <md5>6c6da25dbec014e39afd8c759b43ca4b</md5>
+    <format>Unknown</format>
+    <mtime>1227330292</mtime>
+    <size>7</size>
+    <crc32>f30b3210</crc32>
+    <sha1>bc87893129439e714de015c252807bf274eb7c04</sha1>
+  </file>
+  <file name="Dimension_X_1950-05-27__08_ToTheFuture.mp3" source="original">
+    <format>128Kbps MP3</format>
+    <md5>a47ab2a44d550479e132f21bbdce3d93</md5>
+    <mtime>1164721430</mtime>
+    <size>28799477</size>
+    <crc32>e1cfd54b</crc32>
+    <sha1>3c4dfe6ca1dcaf8852bef29859a8b1d8bedac0d7</sha1>
+    <length>1799.96</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="Dimension_X_1950-07-21__16_BeyondInfinity.mp3" source="original">
+    <format>128Kbps MP3</format>
+    <md5>0fb9fb8d0b1e093a8e497bd8ad9a0d8e</md5>
+    <mtime>1164726699</mtime>
+    <size>28287059</size>
+    <crc32>3391841f</crc32>
+    <sha1>c256c354f7fffc0cac2f42486fa49e44c97d05b1</sha1>
+    <length>1767.94</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="Dimension_X_1950-07-01__13_ALogicNamedJoe.mp3" source="original">
+    <format>128Kbps MP3</format>
+    <md5>35c0a0d347a1ad49e9e29105695d5303</md5>
+    <mtime>1164725359</mtime>
+    <size>28210155</size>
+    <crc32>8d23b4ce</crc32>
+    <sha1>ad2e783fd0799f50717b94dda63be69063af42c8</sha1>
+    <length>1763.13</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="Dimension_X_1951-06-10__36_Nightmare.mp3" source="original">
+    <format>128Kbps MP3</format>
+    <md5>9434faefbd83ae6225a41f0ea64eada2</md5>
+    <mtime>1164739107</mtime>
+    <size>23904339</size>
+    <crc32>e6baadff</crc32>
+    <sha1>e3d05358766343e2853077dcfdd3e523f6b9420c</sha1>
+    <length>1494.02</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="Dimension_X_1950-05-13__06_AlmostHuman.mp3" source="original">
+    <format>128Kbps MP3</format>
+    <md5>78f0a1b52ca9890eb69ac0883ed43c02</md5>
+    <mtime>1164721684</mtime>
+    <size>28134504</size>
+    <crc32>123c301e</crc32>
+    <sha1>c758adc4c4d59a06a3fa44802b28b46b26817052</sha1>
+    <length>1758.4</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="Dimension_X_1950-11-05__28_TheProfessorWasAThief.mp3" source="original">
+    <format>128Kbps MP3</format>
+    <md5>96170d2d49bbbc10259868be368896cb</md5>
+    <mtime>1164734396</mtime>
+    <size>29141786</size>
+    <crc32>9003156f</crc32>
+    <sha1>e48e2e80f4894a19224986e98a96f683433a2540</sha1>
+    <length>1821.36</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="Dimension_X_1951-06-03__35_TheLastObjective.mp3" source="original">
+    <format>128Kbps MP3</format>
+    <md5>77d65d5b3b08f8b8dfc68a433d2d7e30</md5>
+    <mtime>1164738991</mtime>
+    <size>23071764</size>
+    <crc32>e7068d3c</crc32>
+    <sha1>0e7ee3579375cbdc46d431557f371e94d5c7875c</sha1>
+    <length>1441.98</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="Dimension_X_1950-06-10__10_TheGreenHillsOfEarth.mp3" source="original">
+    <format>128Kbps MP3</format>
+    <md5>802f18da599b633fd1e749f49454a9ec</md5>
+    <mtime>1164722824</mtime>
+    <size>24856450</size>
+    <crc32>53d09473</crc32>
+    <sha1>e7852ae05e1fc207de7f33a396376741a10e7460</sha1>
+    <length>1553.52</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="Dimension_X_1950-09-01__22_TheRoadsMustRoll.mp3" source="original">
+    <format>128Kbps MP3</format>
+    <md5>ccb515b6af5061e6b18456b1a763f45e</md5>
+    <mtime>1164730550</mtime>
+    <size>28511085</size>
+    <crc32>dcb3e8f5</crc32>
+    <sha1>1efda1b40fd87aed4e0899e593a70b11da093e14</sha1>
+    <length>1781.94</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="Dimension_X_1951-09-22__49_Requiem.mp3" source="original">
+    <format>128Kbps MP3</format>
+    <md5>3dafbb5656f508c2af0b3521cbe3551c</md5>
+    <mtime>1164747397</mtime>
+    <size>29871124</size>
+    <crc32>8abad078</crc32>
+    <sha1>13ab2fffc62d6108d41c8e794f214c6426f5ea87</sha1>
+    <length>1866.94</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="Dimension_X_1950-06-03__09_Embassy.mp3" source="original">
+    <format>128Kbps MP3</format>
+    <md5>09fe0c358c91bb78d7eea90e844dbcd3</md5>
+    <mtime>1164722840</mtime>
+    <size>28755591</size>
+    <crc32>205f08f8</crc32>
+    <sha1>f3f6c305b2d6c92bfec327711571759faa93e3c4</sha1>
+    <length>1797.22</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="Dimension_X_1950-10-28__27_NoContact.mp3" source="original">
+    <format>128Kbps MP3</format>
+    <md5>c553aef032160a337c8df08fd2c553a2</md5>
+    <mtime>1164734268</mtime>
+    <size>28589662</size>
+    <crc32>9656cfc5</crc32>
+    <sha1>1e6fb4e7a006946d13af1a79f30c5911296e44b4</sha1>
+    <length>1786.85</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="Dimension_X_1950-07-14__15_TheManInTheMoon.mp3" source="original">
+    <format>128Kbps MP3</format>
+    <md5>f38dc97065cf1c612e065a99b9898682</md5>
+    <mtime>1164726703</mtime>
+    <size>29013054</size>
+    <crc32>8fdbf4dc</crc32>
+    <sha1>e09897e5365bb678ff82695b371e7f14ec525785</sha1>
+    <length>1813.31</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="Dimension_X_1950-08-04__18_PerigisWonderfulDolls.mp3" source="original">
+    <format>128Kbps MP3</format>
+    <md5>0c0296404f4d2e254ea1102a25ed4ab0</md5>
+    <mtime>1164727962</mtime>
+    <size>27979859</size>
+    <crc32>10beada1</crc32>
+    <sha1>403f27df501a0f60c07e564129d31f4d7651c311</sha1>
+    <length>1748.74</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="Dimension_X_1950-09-08__23_TheOuterLimit.mp3" source="original">
+    <format>128Kbps MP3</format>
+    <title>Dimension-X(1950-04-08)(#01)Th</title>
+    <md5>366a15b6a708e133b52e4d16192dfdd7</md5>
+    <mtime>1164731698</mtime>
+    <size>26848154</size>
+    <crc32>7b4e1f3e</crc32>
+    <sha1>5bcb8f7149104b55fbd9949e0ed446ddbf461608</sha1>
+    <length>1678</length>
+    <height>0</height>
+    <width>0</width>
+    <artist/>
+    <album/>
+    <comment/>
+  </file>
+  <file name="Dimension_X_1950-04-29__04_NoContact.mp3" source="original">
+    <format>128Kbps MP3</format>
+    <md5>084b1c90a787fb20528c34c422a63a7b</md5>
+    <mtime>1164718667</mtime>
+    <size>23473423</size>
+    <crc32>99620b68</crc32>
+    <sha1>b470569fb7aca993c9a27c10bb09de6415a62ef7</sha1>
+    <length>1467.08</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="Dimension_X_1951-07-26__41_Courtesy.mp3" source="original">
+    <format>128Kbps MP3</format>
+    <md5>ad58a6f34df545d17f5968e2f3e022f3</md5>
+    <mtime>1164742576</mtime>
+    <size>28210573</size>
+    <crc32>58871859</crc32>
+    <sha1>6ddfcfb4f08b4c4c9d488d1e64b052c64decac95</sha1>
+    <length>1763.16</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="Dimension_X_1951-07-19__40_DwellersInSilence.mp3" source="original">
+    <format>128Kbps MP3</format>
+    <md5>8eaf84b173a92d0d9fa0b02e11390bbb</md5>
+    <mtime>1164741396</mtime>
+    <size>28465946</size>
+    <crc32>344907bc</crc32>
+    <sha1>125841acc96bdc3e9a93ce37e0bb35675aa4c625</sha1>
+    <length>1779.12</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="Dimension_X_1950-12-24__32_TheGreenHillsOfEarth.mp3" source="original">
+    <format>128Kbps MP3</format>
+    <md5>33f7773ced8d3089a9d4c824717e6f1b</md5>
+    <mtime>1164736919</mtime>
+    <size>28367307</size>
+    <crc32>baf01c8b</crc32>
+    <sha1>4712508339aabaf7dac790bc820e2a31f81ab1f4</sha1>
+    <length>1772.95</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="Dimension_X_1951-08-02__42_Universe.mp3" source="original">
+    <format>128Kbps MP3</format>
+    <md5>4eaefb34669af935bba59896f7245cb1</md5>
+    <mtime>1164742645</mtime>
+    <size>28547866</size>
+    <crc32>611754cf</crc32>
+    <sha1>539edec312769ff98a4af2b1a78d94360eaeaaab</sha1>
+    <length>1784.24</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="Dimension_X_1950-04-22__03_ReportOnBarnhouseEffect.mp3" source="original">
+    <format>128Kbps MP3</format>
+    <md5>a52981f0a217e86b2c59b9b6c4326c33</md5>
+    <mtime>1164718829</mtime>
+    <size>28791954</size>
+    <crc32>6aebc616</crc32>
+    <sha1>5fec9b98c029cc591852ef7c56b2c867cf0bbeea</sha1>
+    <length>1799.49</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="Dimension_X_1950-04-15__02_WithFoldedHands.mp3" source="original">
+    <format>128Kbps MP3</format>
+    <md5>efa9b2c7fb992c1ab61756b658bc26a7</md5>
+    <mtime>1164717574</mtime>
+    <size>28246935</size>
+    <crc32>e1570bdb</crc32>
+    <sha1>91394e568c9028f3ca5a74071076a703575e2950</sha1>
+    <length>1765.43</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="Dimension_X_1950-08-11__19_TheCastaways.mp3" source="original">
+    <format>128Kbps MP3</format>
+    <md5>7bf4cce6906fcef7e59015012f49a26f</md5>
+    <mtime>1164729210</mtime>
+    <size>28940329</size>
+    <crc32>6cadf4d2</crc32>
+    <sha1>492b57d7fd050a777aa2bd56bfef670c265698ad</sha1>
+    <length>1808.77</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="Dimension_X_1951-01-07__33_MarsIsHeaven.mp3" source="original">
+    <format>128Kbps MP3</format>
+    <md5>96024b28e0a9080a739a23c59088edaf</md5>
+    <mtime>1164737975</mtime>
+    <size>24327732</size>
+    <crc32>cd4ab9da</crc32>
+    <sha1>6ea44cf33ad05cc4760c33c910c64936af3ea872</sha1>
+    <length>1520.48</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="Dimension_X_1951-08-30__46_Marrionettes_Inc.mp3" source="original">
+    <format>128Kbps MP3</format>
+    <title>Dimension-X(1951-08-30)(#46)Ma</title>
+    <md5>f0c90c33869d22610dfc202a0c550da9</md5>
+    <mtime>1164745153</mtime>
+    <size>26922133</size>
+    <crc32>8da36105</crc32>
+    <sha1>c0135497f93f57357f82956335973bea1e0c3ee7</sha1>
+    <length>1682.63</length>
+    <height>0</height>
+    <width>0</width>
+    <artist/>
+    <album/>
+    <comment/>
+  </file>
+  <file name="Dimension_X_1950-05-20__07_TheLostRace.mp3" source="original">
+    <format>128Kbps MP3</format>
+    <md5>98d62f29a1aff16bce8ac745aba0b391</md5>
+    <mtime>1164721434</mtime>
+    <size>28465528</size>
+    <crc32>a85b26c9</crc32>
+    <sha1>ca999b65316f18921ca7b8ac5a1085db693bc822</sha1>
+    <length>1779.09</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="Dimension_X_1950-09-29__26_AndTheMoonBeStillAsBright.mp3" source="original">
+    <format>128Kbps MP3</format>
+    <md5>fc0fc9ccf475d3b28c6e926696083ada</md5>
+    <mtime>1164733085</mtime>
+    <size>28482664</size>
+    <crc32>f2610d22</crc32>
+    <sha1>6ab329e2517b6e1f8ffa2cc4d78db4b39a0ee98c</sha1>
+    <length>1780.16</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="Dimension_X_1951-08-16__44_VitalFactor.mp3" source="original">
+    <format>128Kbps MP3</format>
+    <md5>63c9946ad90014ca790c16a133b1ca32</md5>
+    <mtime>1164743919</mtime>
+    <size>28671164</size>
+    <crc32>8e22fa5f</crc32>
+    <sha1>80b0808fac0da99a4c723e37a139c9139f459824</sha1>
+    <length>1791.94</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="Dimension_X_1950-08-18__20_TheMartianChronicals.mp3" source="original">
+    <format>128Kbps MP3</format>
+    <md5>1267ae6bb9e221a1319e9669277f9c35</md5>
+    <mtime>1164729262</mtime>
+    <size>29108349</size>
+    <crc32>6a1a2c1c</crc32>
+    <sha1>62ac5a960509145c78ae6388ac51371c671a9769</sha1>
+    <length>1819.27</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="Dimension_X_1950-09-15__24_HelloTomorrow.mp3" source="original">
+    <format>128Kbps MP3</format>
+    <md5>7819cc72ebd088fbc7d3e09cc2be9b84</md5>
+    <mtime>1164731814</mtime>
+    <size>27861159</size>
+    <crc32>5cc496ba</crc32>
+    <sha1>976b34e02120b599ed5d3e2e955239c5d703313c</sha1>
+    <length>1741.32</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="Dimension_X_1951-09-29__50_Nightfall.mp3" source="original">
+    <format>128Kbps MP3</format>
+    <md5>52429bc277ae7ada767c7a0db70cac9f</md5>
+    <mtime>1164747602</mtime>
+    <size>29229139</size>
+    <crc32>390523ef</crc32>
+    <sha1>b04663278176b6fd878d7e235c5b93c2a2dc276c</sha1>
+    <length>1826.82</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="Dimension_X_1950-11-19__30_Competition.mp3" source="original">
+    <format>128Kbps MP3</format>
+    <md5>c929545e0e37b208b9aaa19b7eab47cb</md5>
+    <mtime>1164735663</mtime>
+    <size>28132414</size>
+    <crc32>d97cefee</crc32>
+    <sha1>131d3c8dadb3d76a25e094adc43d67c4de7b9f8a</sha1>
+    <length>1758.27</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="Dimension_X_1950-11-12__29_Shanghied.mp3" source="original">
+    <format>128Kbps MP3</format>
+    <md5>118f8a4c48236e4b3ad875f83ed2bbb3</md5>
+    <mtime>1164735560</mtime>
+    <size>29184835</size>
+    <crc32>9e661843</crc32>
+    <sha1>15124cd52dd53d08294240d816250a6a8e4d20c0</sha1>
+    <length>1824.05</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="Dimension_X_1951-06-17__37_PebbleInTheSky.mp3" source="original">
+    <format>128Kbps MP3</format>
+    <md5>1b49640853290c0166de1aef47a0ca6d</md5>
+    <mtime>1164740024</mtime>
+    <size>23899324</size>
+    <crc32>b1946879</crc32>
+    <sha1>bb5a1b686a8cb49d5a2fa412b825ae95bce8ca42</sha1>
+    <length>1493.7</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="Dimension_X_1950-07-07__14_MarsIsHeaven.mp3" source="original">
+    <format>128Kbps MP3</format>
+    <md5>e04280ad0b415882b2669a5f7e0715c1</md5>
+    <mtime>1164725389</mtime>
+    <size>28125309</size>
+    <crc32>135caac6</crc32>
+    <sha1>68cd0e80cb87623b7358d1740a22a4a7f41c46ca</sha1>
+    <length>1757.83</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="Dimension_X_1951-09-15__48_TheKaleidoscope.mp3" source="original">
+    <format>128Kbps MP3</format>
+    <md5>614042979905e2e93090ca0bda1fadbe</md5>
+    <mtime>1164746461</mtime>
+    <size>28352261</size>
+    <crc32>b11e09d3</crc32>
+    <sha1>27d8447ba6b39d5747c050ee0dbf5f888d3276d1</sha1>
+    <length>1772.01</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="Dimension_X_1951-01-14__34_TheMartianDeathMarch.mp3" source="original">
+    <format>128Kbps MP3</format>
+    <title>The Martian Death March</title>
+    <creator>Dimension X</creator>
+    <md5>cfc5e046c9e719b065f6a28be1fc01c0</md5>
+    <mtime>1164738007</mtime>
+    <size>24715308</size>
+    <crc32>d09e1356</crc32>
+    <sha1>17fe63f72e27e1ace38d047415646cd554ce6c6f</sha1>
+    <length>1544.7</length>
+    <height>0</height>
+    <width>0</width>
+    <artist>Dimension X</artist>
+    <album/>
+    <comment/>
+  </file>
+  <file name="Dimension_X_1950-06-24__12_DestinationMoon.mp3" source="original">
+    <format>128Kbps MP3</format>
+    <md5>e5a09354e48f44dc6ae89eb12c265f7e</md5>
+    <mtime>1164724092</mtime>
+    <size>27266403</size>
+    <crc32>310dc8f3</crc32>
+    <sha1>34f9b79c4069879b68e03ea3f4fd35dacbde2d63</sha1>
+    <length>1704.15</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="Dimension_X_1950-06-17__11_ThereWillComeSoftRain-ZeroHour.mp3" source="original">
+    <format>128Kbps MP3</format>
+    <md5>74a680415f42e419c766f3f4be8037d7</md5>
+    <mtime>1164724109</mtime>
+    <size>28745142</size>
+    <crc32>3be7e785</crc32>
+    <sha1>8c5714531c53961f18a5c3f74fa7ebd92e97d6de</sha1>
+    <length>1796.57</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="Dimension_X_1950-11-26__31_Universe.mp3" source="original">
+    <format>128Kbps MP3</format>
+    <md5>d829927a1ba6dc9cff81ae13554ef35d</md5>
+    <mtime>1164736863</mtime>
+    <size>29016816</size>
+    <crc32>c2aaeb6b</crc32>
+    <sha1>1fe89548904dea039b72a4232966ae9f53050423</sha1>
+    <length>1813.55</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="Dimension_X_1951-08-09__43_Veldt.mp3" source="original">
+    <format>128Kbps MP3</format>
+    <md5>38acc067796c9b4f369d852e27134228</md5>
+    <mtime>1164743867</mtime>
+    <size>28990484</size>
+    <crc32>d5608518</crc32>
+    <sha1>e4f772ad8a47a4bba7c34ee159bc8877d76a88ed</sha1>
+    <length>1811.9</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="Dimension_X_1950-08-25__21_TheParade.mp3" source="original">
+    <format>128Kbps MP3</format>
+    <md5>aa64b6012ee5bef301f6253f8829a878</md5>
+    <mtime>1164730506</mtime>
+    <size>29116290</size>
+    <crc32>75d6f2a5</crc32>
+    <sha1>6d7ef6a1574cc137090d224bd9706e753f82e819</sha1>
+    <length>1819.76</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="Dimension_X_1951-07-12__39_TimeAndTimeAgain.mp3" source="original">
+    <format>128Kbps MP3</format>
+    <md5>4e7abec45d950b13823f2a789c5b5202</md5>
+    <mtime>1164741312</mtime>
+    <size>28434181</size>
+    <crc32>00466b09</crc32>
+    <sha1>ddb3a8ccb3828fe70fcc6180c58c2d33a4f888df</sha1>
+    <length>1777.13</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="Dimension_X_1951-09-08__47_FirstContact.mp3" source="original">
+    <format>128Kbps MP3</format>
+    <md5>43e00fcd80f9370843a1336d78349c71</md5>
+    <mtime>1164746112</mtime>
+    <size>21652793</size>
+    <crc32>6e4b5202</crc32>
+    <sha1>279042ca693f32bd3b75b2705283462ccf998628</sha1>
+    <length>1353.29</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="Dimension_X_1950-05-06__05_Knock.mp3" source="original">
+    <format>128Kbps MP3</format>
+    <md5>2c3a89f86ba6369bdfbf4996f7e5a6f0</md5>
+    <mtime>1164721578</mtime>
+    <size>28420806</size>
+    <crc32>fa04a9a2</crc32>
+    <sha1>3015f5b11fe5d196197f887267a0c410e49a6a6d</sha1>
+    <length>1776.3</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="Dimension_X_1951-08-23__45_UntitledStory.mp3" source="original">
+    <format>128Kbps MP3</format>
+    <md5>b4834115f19eb5d8637549594a347625</md5>
+    <mtime>1164745146</mtime>
+    <size>28877217</size>
+    <crc32>b932be9d</crc32>
+    <sha1>23ed64b48b0a9d99fed11d6fc412ad9ce1e7a9e2</sha1>
+    <length>1804.82</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="Dimension_X_1951-06-24__38_ChildsPlay.mp3" source="original">
+    <format>128Kbps MP3</format>
+    <md5>b38d43b2a7562337b05ed0367c7d1d9d</md5>
+    <mtime>1164740153</mtime>
+    <size>23748022</size>
+    <crc32>fe191556</crc32>
+    <sha1>23d68a973ffdc6f58cc49b8cd89ee7949f34ee99</sha1>
+    <length>1484.25</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="Dimension_X_1950-04-08__01_OuterLimit.mp3" source="original">
+    <format>128Kbps MP3</format>
+    <md5>66fa6b490ca0a32e359c6a9c8fd00bf2</md5>
+    <mtime>1164717567</mtime>
+    <size>28973766</size>
+    <crc32>24f53915</crc32>
+    <sha1>84d67d0ae9e1f1aec469f2a6079f91ac27dcb1c1</sha1>
+    <length>1810.86</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="Dimension_X_1950-07-28__17_PottersOfFirsk.mp3" source="original">
+    <format>128Kbps MP3</format>
+    <md5>ddd18fd3f81b883acf6dbfa7853fa2d8</md5>
+    <mtime>1164727922</mtime>
+    <size>26706337</size>
+    <crc32>56bbb278</crc32>
+    <sha1>7ec4940903670cc496533af3777003fb7d72624c</sha1>
+    <length>1669.14</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="Dimension_X_1950-09-22__25_DrGrimshawsSanitorium.mp3" source="original">
+    <format>128Kbps MP3</format>
+    <md5>ccf0373f31dd840a449e4a54c4c6d468</md5>
+    <mtime>1164733003</mtime>
+    <size>29163937</size>
+    <crc32>2089b261</crc32>
+    <sha1>5b71d22043eab79c3a4cead51d16fd76f4fb7df0</sha1>
+    <length>1822.74</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="OTRR_Dimension_X_Singles_reviews.xml" source="metadata">
+    <format>Metadata</format>
+    <mtime>1402475642</mtime>
+    <size>5529</size>
+    <md5>187e5fae31eee2d9ba5987621c3ae447</md5>
+    <crc32>275d1640</crc32>
+    <sha1>13ee0ce5fd95b5d5e45af2a36f740604088517aa</sha1>
+  </file>
+  <file name="OTRR_Dimension_X_Singles.jpg" source="original">
+    <format>JPEG</format>
+    <title>Dimension X</title>
+    <md5>f3611b061e9b0d286e7b61956721ae62</md5>
+    <mtime>1164747447</mtime>
+    <size>106100</size>
+    <crc32>e927cba6</crc32>
+    <sha1>a27290638d6449c845dff008ac3820ce807ecf24</sha1>
+    <rotation>0</rotation>
+  </file>
+  <file name="OTRR_Dimension_X_Singles_meta.xml" source="metadata">
+    <format>Metadata</format>
+    <mtime>1465281217</mtime>
+    <size>5459</size>
+    <md5>0ef737882e5d82028e9d2321a8b3486a</md5>
+    <crc32>80a38502</crc32>
+    <sha1>520e039a6760f31de13bc97628f453eb3e3046ed</sha1>
+  </file>
+  <file name="OTRR_Certified_Dimension_X_thumb.jpg" source="original">
+    <format>JPEG Thumb</format>
+    <mtime>1299343385</mtime>
+    <size>9874</size>
+    <md5>c1edf26f2b96adbc889cf8c65456107c</md5>
+    <crc32>1b50a83f</crc32>
+    <sha1>78fa57acae618ed1c177161d8655faf02bae6b73</sha1>
+    <rotation>0</rotation>
+  </file>
+  <file name="OTRR_Dimension_X_Singles_archive.torrent" source="metadata">
+    <btih>b7187e9441c5f1968bdbb59304b6516120c3d2ad</btih>
+    <mtime>1465281232</mtime>
+    <size>38381</size>
+    <md5>be959c3bc8a9315470c0f1a4a56ad776</md5>
+    <crc32>8148859e</crc32>
+    <sha1>c561baa41c01ac4dcec505611e8803a3977437c2</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="OTRR_Dimension_X_Singles_files.xml" source="metadata">
+    <format>Metadata</format>
+    <md5>47d6bbd80f1f7ba599b56d425718303c</md5>
+  </file>
+</files>

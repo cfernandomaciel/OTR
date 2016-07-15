@@ -1,0 +1,1875 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="OTRR_Philip_Marlowe_Singles_rules.conf" source="original">
+    <md5>6c6da25dbec014e39afd8c759b43ca4b</md5>
+    <format>Unknown</format>
+    <mtime>1227331904</mtime>
+    <size>7</size>
+    <crc32>f30b3210</crc32>
+    <sha1>bc87893129439e714de015c252807bf274eb7c04</sha1>
+  </file>
+  <file name="Philip_Marlowe_49-07-09_ep041_The_Quiet_Number.rtf" source="original">
+    <format>Unknown</format>
+    <md5>7f3bc242e1d8c5a349bda5f6a0535d14</md5>
+    <mtime>1188714995</mtime>
+    <size>5619</size>
+    <crc32>bec96008</crc32>
+    <sha1>9d6862bc6dabe4cc2c5bb76013c7bcda142f3616</sha1>
+  </file>
+  <file name="Philip_Marlowe_49-07-23_epxxx_Pre-empted.rtf" source="original">
+    <format>Unknown</format>
+    <md5>4315ad245e654f92a72d878bc6275859</md5>
+    <mtime>1188715181</mtime>
+    <size>5377</size>
+    <crc32>582278a3</crc32>
+    <sha1>16566ad54b48b2201f66a2a4e1fa0684b921ae1c</sha1>
+  </file>
+  <file name="Philip_Marlowe_49-11-12_ep058_The_Gorgeous_Lyre.rtf" source="original">
+    <format>Unknown</format>
+    <md5>08a0e808271cf27f3515cb7589c88fa9</md5>
+    <mtime>1188717731</mtime>
+    <size>5619</size>
+    <crc32>82a68fb0</crc32>
+    <sha1>aec29e72bb35db54ef8d20d8f24826b7e014e893</sha1>
+  </file>
+  <file name="Philip_Marlowe_49-11-19_ep059_The_Sweet_Thing.rtf" source="original">
+    <format>Unknown</format>
+    <md5>338f1c4dc0ba58239801bee573d6bc9c</md5>
+    <mtime>1188717734</mtime>
+    <size>5620</size>
+    <crc32>ec1192ad</crc32>
+    <sha1>7c6d7603b097cd19691cb5caef20f287e8ec81ae</sha1>
+  </file>
+  <file name="Philip_Marlowe_49-12-17_ep063_The_Lowest_Bid.rtf" source="original">
+    <format>Unknown</format>
+    <md5>2cae12ddb2f3c536a55842ed5f2897b8</md5>
+    <mtime>1188718230</mtime>
+    <size>5613</size>
+    <crc32>7a423b7e</crc32>
+    <sha1>d2295342f28c3b738e6af4bed4019d8c2c960a3b</sha1>
+  </file>
+  <file name="Philip_Marlowe_49-12-24_ep064_Carols_Christmas.rtf" source="original">
+    <format>Unknown</format>
+    <md5>ad0995f3706b0b47b817f7923ddda2f9</md5>
+    <mtime>1188718233</mtime>
+    <size>6424</size>
+    <crc32>169dfec8</crc32>
+    <sha1>3d0b6c7c829939496ba9d7c5c9c55df3540816da</sha1>
+  </file>
+  <file name="Philip_Marlowe_50-09-29_ep103_The_Big_Book.mp3" source="original">
+    <format>VBR MP3</format>
+    <creator>The Adventures of Philip Marlowe</creator>
+    <album>09/29/50, episode 103</album>
+    <track>103</track>
+    <md5>4713d94a08f5e02b0bd4fd9544ae9a5d</md5>
+    <title>The Big Book</title>
+    <mtime>1188606274</mtime>
+    <size>17684490</size>
+    <crc32>c83b1851</crc32>
+    <sha1>c38c136489bc9bb1dd0ff4dcb5b2264d2eeb65db</sha1>
+    <length>1760.75</length>
+    <height>734</height>
+    <width>696</width>
+    <genre>Old Time Radio Detectives</genre>
+    <artist>The Adventures of Philip Marlowe</artist>
+  </file>
+  <file name="Philip_Marlowe_47-06-12_xxx_Who_Shot_Waldo.mp3" source="original">
+    <format>VBR MP3</format>
+    <creator>The Adventures of Philip Marlowe</creator>
+    <album>06/12/47, episode xx</album>
+    <md5>ec88aa4086ba942dc8556624f33e745f</md5>
+    <title>Who Shot Waldo</title>
+    <mtime>1188661768</mtime>
+    <size>23113728</size>
+    <crc32>3d31f8c9</crc32>
+    <sha1>08990610a82cb4100babec2cd668e22a34fbb977</sha1>
+    <length>1444.6</length>
+    <height>597</height>
+    <width>427</width>
+    <genre>Old Time Radio Detectives</genre>
+    <artist>The Adventures of Philip Marlowe</artist>
+  </file>
+  <file name="Philip_Marlowe_49-08-06_ep044_The_August_Lion.mp3" source="original">
+    <format>VBR MP3</format>
+    <creator>The Adventures of Philip Marlowe</creator>
+    <album>08/06/49, episode 44</album>
+    <track>44</track>
+    <md5>cad4ad6ce134b0b7472731353c4d6afc</md5>
+    <title>The August Lion</title>
+    <mtime>1188715578</mtime>
+    <size>14387210</size>
+    <crc32>cfb0c6b3</crc32>
+    <sha1>4830c269571613cd52b307503296e59128a6ec9e</sha1>
+    <length>1798.4</length>
+    <height>734</height>
+    <width>696</width>
+    <genre>Other</genre>
+    <artist>The Adventures of Philip Marlowe</artist>
+  </file>
+  <file name="Philip_Marlowe_49-01-22_017_The_Orange_Dog.mp3" source="original">
+    <format>VBR MP3</format>
+    <creator>The Adventures of Philip Marlowe</creator>
+    <album>01/22/49, episode 17</album>
+    <track>17</track>
+    <md5>7c64df94408e755875121b8a29f4b628</md5>
+    <title>The Orange Dog</title>
+    <mtime>1188664142</mtime>
+    <size>21297162</size>
+    <crc32>a1aa45a8</crc32>
+    <sha1>66851719423ead0efc94665f97e9aaba884afa7f</sha1>
+    <length>1774.76</length>
+    <height>734</height>
+    <width>696</width>
+    <genre>Other</genre>
+    <artist>The Adventures of Philip Marlowe</artist>
+  </file>
+  <file name="Philip_Marlowe_49-06-25_ep039_The_Key_Man.mp3" source="original">
+    <format>VBR MP3</format>
+    <creator>The Adventures of Philip Marlowe</creator>
+    <album>06/25/49, episode 39</album>
+    <track>39</track>
+    <md5>3ff2faa932cb32818a7605b9c77e62b8</md5>
+    <title>The Key Man</title>
+    <mtime>1188714819</mtime>
+    <size>14413834</size>
+    <crc32>20ce7c68</crc32>
+    <sha1>c4ad66537380c5af18f753e2f0ef65c32e9cb248</sha1>
+    <length>1801.72</length>
+    <height>734</height>
+    <width>696</width>
+    <genre>Old Time Radio Detectives</genre>
+    <artist>The Adventures of Philip Marlowe</artist>
+  </file>
+  <file name="Philip_Marlowe_50-05-30_ep086_The_Bedside_Manners.mp3" source="original">
+    <format>VBR MP3</format>
+    <creator>The Adventures of Philip Marlowe</creator>
+    <album>05/30/50, episode 86</album>
+    <track>86</track>
+    <md5>76e81a6ef7bf9ea2fe4bd35ea17e0793</md5>
+    <title>The Bedside Manners</title>
+    <mtime>1188603462</mtime>
+    <size>14301194</size>
+    <crc32>c6a1d1d9</crc32>
+    <sha1>29e45866ef51485ff778ffdfe4ab22c5568e5066</sha1>
+    <length>1787.64</length>
+    <height>734</height>
+    <width>696</width>
+    <genre>Old Time Radio Detectives</genre>
+    <artist>The Adventures of Philip Marlowe</artist>
+  </file>
+  <file name="Philip_Marlowe_50-06-06_ep087_The_Uneasy_Head.mp3" source="original">
+    <format>VBR MP3</format>
+    <creator>The Adventures of Philip Marlowe</creator>
+    <album>06/06/50, episode 87</album>
+    <track>87</track>
+    <md5>5a49a798ff6df895a4b82cab7fafe4fb</md5>
+    <title>The Uneasy Head</title>
+    <mtime>1188603599</mtime>
+    <size>14157834</size>
+    <crc32>87f2d30d</crc32>
+    <sha1>2a698f3c89130da0d33f4180bfdd19aaf8831b24</sha1>
+    <length>1769.72</length>
+    <height>734</height>
+    <width>696</width>
+    <genre>Old Time Radio Detectives</genre>
+    <artist>The Adventures of Philip Marlowe</artist>
+  </file>
+  <file name="Philip_Marlowe_51-08-30_epxxx_Nether_Nether_Land_eprehearsal.mp3" source="original">
+    <format>VBR MP3</format>
+    <creator>The Adventures of Philip Marlowe</creator>
+    <album>08/30/51, episode 116</album>
+    <md5>3de3b9ffabd44f61884bc838ee17a22b</md5>
+    <title>Nether Nether Land (rehearsal)</title>
+    <mtime>1188607733</mtime>
+    <size>16599050</size>
+    <crc32>9931c1a1</crc32>
+    <sha1>2ad0710c06c0008b8c0ce7e90d9db796dc8cf4c2</sha1>
+    <length>1652.27</length>
+    <height>734</height>
+    <width>696</width>
+    <genre>Other</genre>
+    <artist>The Adventures of Philip Marlowe</artist>
+  </file>
+  <file name="Philip_Marlowe_50-04-18_ep080_The_Angry_Eagle.mp3" source="original">
+    <format>VBR MP3</format>
+    <creator>The Adventures of Philip Marlowe</creator>
+    <album>04/18/50, episode 80</album>
+    <track>80</track>
+    <md5>7dd6dfb8568281ce938bcbcf03593cc0</md5>
+    <title>The Angry Eagle</title>
+    <mtime>1188602496</mtime>
+    <size>14317578</size>
+    <crc32>1103d814</crc32>
+    <sha1>195d918c03e5c4b46cfb19945f00df69118a0790</sha1>
+    <length>1789.69</length>
+    <height>734</height>
+    <width>696</width>
+    <genre>Old Time Radio Detectives</genre>
+    <artist>The Adventures of Philip Marlowe</artist>
+  </file>
+  <file name="Philip_Marlowe_49-10-01_ep052_The_Tale_of_the_Mermaid.mp3" source="original">
+    <format>VBR MP3</format>
+    <creator>The Adventures of Philip Marlowe</creator>
+    <album>10/01/49, episode 52</album>
+    <track>52</track>
+    <md5>6dcea42f9da392a3ec3d96330be628bb</md5>
+    <title>The Tail of the Mermaid</title>
+    <mtime>1188716826</mtime>
+    <size>14510090</size>
+    <crc32>dfd68207</crc32>
+    <sha1>811b81d07eb33c1543e160b622eb8b6e193d2568</sha1>
+    <length>1813.76</length>
+    <height>734</height>
+    <width>696</width>
+    <genre>Other</genre>
+    <artist>The Adventures of Philip Marlowe</artist>
+  </file>
+  <file name="Philip_Marlowe_50-01-28_ep069_The_Hairpin_Turn.mp3" source="original">
+    <format>VBR MP3</format>
+    <creator>The Adventures of Philip Marlowe</creator>
+    <album>01/28/50, episode 69</album>
+    <track>69</track>
+    <md5>2afd100aaa8908b5008e6ac9b0d6eb4a</md5>
+    <title>The Hairpin Turn</title>
+    <mtime>1188718928</mtime>
+    <size>14327818</size>
+    <crc32>12afa7d9</crc32>
+    <sha1>7c5d537d892aca706b6260389308b14a7d080c13</sha1>
+    <length>1790.97</length>
+    <height>734</height>
+    <width>696</width>
+    <genre>Old Time Radio Detectives</genre>
+    <artist>The Adventures of Philip Marlowe</artist>
+  </file>
+  <file name="Philip_Marlowe_48-12-26_014_The_Old_Acquaintance.mp3" source="original">
+    <format>VBR MP3</format>
+    <creator>The Adventures of Philip Marlowe</creator>
+    <album>12/26/48, episode 14</album>
+    <track>14</track>
+    <md5>566400a1cc107bd6576e77a5fabb740f</md5>
+    <title>The Old Acquaintance</title>
+    <mtime>1188663583</mtime>
+    <size>14204938</size>
+    <crc32>fb74b871</crc32>
+    <sha1>ffb36f72cbd81ff3babfe218666e394a988c3afd</sha1>
+    <length>1775.61</length>
+    <height>734</height>
+    <width>696</width>
+    <genre>Other</genre>
+    <artist>The Adventures of Philip Marlowe</artist>
+  </file>
+  <file name="Philip_Marlowe_49-05-14_ep033_The_Promise_to_Pay.mp3" source="original">
+    <format>VBR MP3</format>
+    <creator>The Adventures of Philip Marlowe</creator>
+    <album>05/14/49, episode 33</album>
+    <track>33</track>
+    <md5>15ffa73f741954595650d856815422d7</md5>
+    <title>The Promise to Pay</title>
+    <mtime>1188713565</mtime>
+    <size>14366730</size>
+    <crc32>2575bab6</crc32>
+    <sha1>ed34e941efa9d13b2df744019448d1592f85f96d</sha1>
+    <length>1795.84</length>
+    <height>734</height>
+    <width>696</width>
+    <genre>Old Time Radio Detectives</genre>
+    <artist>The Adventures of Philip Marlowe</artist>
+  </file>
+  <file name="Philip_Marlowe_49-08-20_ep046_The_Lady_Killer.mp3" source="original">
+    <format>VBR MP3</format>
+    <creator>The Adventures of Philip Marlowe</creator>
+    <album>08/20/49, episode 46</album>
+    <track>46</track>
+    <md5>40e7ccebb7b06a55df727e226106b938</md5>
+    <title>The Lady Killer</title>
+    <mtime>1188715842</mtime>
+    <size>14333962</size>
+    <crc32>e6d016ba</crc32>
+    <sha1>1e7feb82f73b46590cdf91b758b9528c2b9f491f</sha1>
+    <length>1791.74</length>
+    <height>734</height>
+    <width>696</width>
+    <genre>Other</genre>
+    <artist>The Adventures of Philip Marlowe</artist>
+  </file>
+  <file name="Philip_Marlowe_49-04-16_ep029_The_Heat_Wave.mp3" source="original">
+    <format>VBR MP3</format>
+    <creator>The Adventures of Philip Marlowe</creator>
+    <album>04/16/49, episode 29</album>
+    <track>29</track>
+    <md5>3b9432cd55ea07af0c42ced26d7ce4d2</md5>
+    <title>The Heat Wave</title>
+    <mtime>1188712764</mtime>
+    <size>14319626</size>
+    <crc32>5f3bd74c</crc32>
+    <sha1>5b0a5f2612767e215b545fd88fdaeb74ff34416f</sha1>
+    <length>1789.95</length>
+    <height>734</height>
+    <width>696</width>
+    <genre>Other</genre>
+    <artist>The Adventures of Philip Marlowe</artist>
+  </file>
+  <file name="Philip_Marlowe_49-04-23_ep030_The_Cloak_of_Kamehameha.mp3" source="original">
+    <format>VBR MP3</format>
+    <creator>The Adventures of Philip Marlowe</creator>
+    <album>04/23/49, episode 30</album>
+    <track>30</track>
+    <md5>4e76754478189f17b0d3de050a85a12a</md5>
+    <title>Cloak of Kamehameha</title>
+    <mtime>1188712946</mtime>
+    <size>14358538</size>
+    <crc32>8b1effbc</crc32>
+    <sha1>9f0425638cd28a21437a5418cb0a9bf80fc1e8ae</sha1>
+    <length>1794.81</length>
+    <height>734</height>
+    <width>696</width>
+    <genre>Other</genre>
+    <artist>The Adventures of Philip Marlowe</artist>
+  </file>
+  <file name="Philip_Marlowe_51-09-15_ep114_Sound_and_the_Unsound.mp3" source="original">
+    <format>VBR MP3</format>
+    <creator>The Adventures of Philip Marlowe</creator>
+    <album>09/15/51, episode 114</album>
+    <track>114</track>
+    <md5>f75e37c7981135a2a01893432bd63da3</md5>
+    <title>Sound and the Unsound</title>
+    <mtime>1188608212</mtime>
+    <size>17629194</size>
+    <crc32>c11de12a</crc32>
+    <sha1>a84c6a090ed79a6cbbe36996681dde15d268fb1f</sha1>
+    <length>1755.24</length>
+    <height>734</height>
+    <width>696</width>
+    <genre>Other</genre>
+    <artist>The Adventures of Philip Marlowe</artist>
+  </file>
+  <file name="Philip_Marlowe_49-05-28_ep035_The_Ebony_Link.mp3" source="original">
+    <format>VBR MP3</format>
+    <creator>The Adventures of Philip Marlowe</creator>
+    <album>05/28/49, episode 35</album>
+    <track>35</track>
+    <md5>a437f6c5d2f3407d8988db873ea1e8fb</md5>
+    <title>The Ebony Link</title>
+    <mtime>1188714000</mtime>
+    <size>14358538</size>
+    <crc32>c67d39da</crc32>
+    <sha1>b06ea803a8d335df7fc54223357857e4d9866fc8</sha1>
+    <length>1794.81</length>
+    <height>734</height>
+    <width>696</width>
+    <genre>Old Time Radio Detectives</genre>
+    <artist>The Adventures of Philip Marlowe</artist>
+  </file>
+  <file name="Philip_Marlowe_49-08-13_ep045_The_Indian_Giver.mp3" source="original">
+    <format>VBR MP3</format>
+    <creator>The Adventures of Philip Marlowe</creator>
+    <album>08/13/49, episode 45</album>
+    <track>45</track>
+    <md5>aca31a37617a1eca4832e687056e010b</md5>
+    <title>The Indian Giver</title>
+    <mtime>1188715712</mtime>
+    <size>14520330</size>
+    <crc32>b81e338b</crc32>
+    <sha1>c061fe7bdc372b9a80fb95603f7f6a1d8dafe142</sha1>
+    <length>1815.04</length>
+    <height>734</height>
+    <width>696</width>
+    <genre>Old Time Radio Detectives</genre>
+    <artist>The Adventures of Philip Marlowe</artist>
+  </file>
+  <file name="Philip_Marlowe_50-05-09_ep083_The_Hiding_Place.mp3" source="original">
+    <format>VBR MP3</format>
+    <creator>The Adventures of Philip Marlowe</creator>
+    <album>05/09/50, episode 83</album>
+    <track>83</track>
+    <md5>2ba23109b9302fa56749ef37af693f7a</md5>
+    <title>The Hiding Place</title>
+    <mtime>1188602905</mtime>
+    <size>14460938</size>
+    <crc32>a3212d50</crc32>
+    <sha1>ada1a5f48db3d44fec6850541256a36e74026421</sha1>
+    <length>1807.61</length>
+    <height>734</height>
+    <width>696</width>
+    <genre>Old Time Radio Detectives</genre>
+    <artist>The Adventures of Philip Marlowe</artist>
+  </file>
+  <file name="Philip_Marlowe_49-03-19_ep025_The_Dancing_Hands.mp3" source="original">
+    <format>VBR MP3</format>
+    <creator>The Adventures of Philip Marlowe</creator>
+    <album>03/19/49, episode 25</album>
+    <track>25</track>
+    <md5>780491c657468173f1615d2d01ec0e76</md5>
+    <title>The Dancing Hands</title>
+    <mtime>1188712155</mtime>
+    <size>21436426</size>
+    <crc32>f4d1532b</crc32>
+    <sha1>256f9be30fff01564f161d5f8ecacf13ffb31942</sha1>
+    <length>1786.36</length>
+    <height>734</height>
+    <width>696</width>
+    <genre>Blues</genre>
+    <artist>The Adventures of Philip Marlowe</artist>
+  </file>
+  <file name="Philip_Marlowe_49-06-11_ep037_The_Pigeons_Blood.mp3" source="original">
+    <format>VBR MP3</format>
+    <creator>The Adventures of Philip Marlowe</creator>
+    <album>06/11/49, episode 37</album>
+    <track>37</track>
+    <md5>ce48d3b2308339cd745181c0cb98b6f7</md5>
+    <title>The Pigeons Blood</title>
+    <mtime>1188714411</mtime>
+    <size>14333962</size>
+    <crc32>223007f1</crc32>
+    <sha1>7ce763a5fe5739c3e7453b7637a8d37c39fd76d7</sha1>
+    <length>1791.74</length>
+    <height>734</height>
+    <width>696</width>
+    <genre>Other</genre>
+    <artist>The Adventures of Philip Marlowe</artist>
+  </file>
+  <file name="Philip_Marlowe_51-07-21_ep106_Life_Can_Be_Murder.mp3" source="original">
+    <format>VBR MP3</format>
+    <creator>The Adventures of Philip Marlowe</creator>
+    <album>07/21/51, episode 106</album>
+    <track>106</track>
+    <md5>7043a9b332f7b19b7612e5e3331a7ecd</md5>
+    <title>Life Can Be Murder</title>
+    <mtime>1188606745</mtime>
+    <size>13799434</size>
+    <crc32>352431bc</crc32>
+    <sha1>a3a47ac237e14b463d008bafe70618c91bdd03ac</sha1>
+    <length>1724.92</length>
+    <height>734</height>
+    <width>696</width>
+    <genre>Old Time Radio Detectives</genre>
+    <artist>The Adventures of Philip Marlowe</artist>
+  </file>
+  <file name="Philip_Marlowe_50-07-05_ep091_The_Girl_from_Pitchfork_Corners.mp3" source="original">
+    <format>VBR MP3</format>
+    <creator>The Adventures of Philip Marlowe</creator>
+    <album>07/05/50, episode 91</album>
+    <track>91</track>
+    <md5>91a3aad19afe2d7bf1343f844a8f0f8f</md5>
+    <title>The Girl from Pitchfork Corners</title>
+    <mtime>1188604316</mtime>
+    <size>14389258</size>
+    <crc32>de147f11</crc32>
+    <sha1>fe0593de4b51d21897f38477ccba870f7105fdec</sha1>
+    <length>1798.65</length>
+    <height>734</height>
+    <width>696</width>
+    <genre>Old Time Radio Detectives</genre>
+    <artist>The Adventures of Philip Marlowe</artist>
+  </file>
+  <file name="Philip_Marlowe_49-12-10_ep062_The_Little_Wishbone.mp3" source="original">
+    <format>VBR MP3</format>
+    <creator>The Adventures of Philip Marlowe</creator>
+    <album>12/10/49, episode 62</album>
+    <track>62</track>
+    <md5>22dfc684b3bcf6cb697e1447f441aab3</md5>
+    <title>The Little Wishbone</title>
+    <mtime>1188718228</mtime>
+    <size>14516234</size>
+    <crc32>6ea488b5</crc32>
+    <sha1>f28602e13576caf9706c84c87bfb6aaed9f3176d</sha1>
+    <length>1814.52</length>
+    <height>734</height>
+    <width>696</width>
+    <genre>Old Time Radio Detectives</genre>
+    <artist>The Adventures of Philip Marlowe</artist>
+  </file>
+  <file name="Philip_Marlowe_49-09-24_ep051_The_Fatted_Calf.mp3" source="original">
+    <format>VBR MP3</format>
+    <creator>The Adventures of Philip Marlowe</creator>
+    <album>09/24/49, episode 51</album>
+    <track>51</track>
+    <md5>883700e22eded800a180075d2c984757</md5>
+    <title>The Fatted Calf</title>
+    <mtime>1188716684</mtime>
+    <size>14325770</size>
+    <crc32>12b1c4a6</crc32>
+    <sha1>9fbb95dbc21526a1af44779d6913a427e21d6e85</sha1>
+    <length>1790.72</length>
+    <height>734</height>
+    <width>696</width>
+    <genre>Other</genre>
+    <artist>The Adventures of Philip Marlowe</artist>
+  </file>
+  <file name="Philip_Marlowe_49-05-21_ep034_Night_Tide.mp3" source="original">
+    <format>VBR MP3</format>
+    <creator>The Adventures of Philip Marlowe</creator>
+    <album>05/21/49, episode 34</album>
+    <track>34</track>
+    <md5>d9c6227776c720f5c1c6d52a875bd028</md5>
+    <title>Night Tide</title>
+    <mtime>1188713792</mtime>
+    <size>14796810</size>
+    <crc32>bb99e6ae</crc32>
+    <sha1>3e67db549148330e5cc52407e52d9b612529e5bc</sha1>
+    <length>1849.6</length>
+    <height>734</height>
+    <width>696</width>
+    <genre>Old Time Radio Detectives</genre>
+    <artist>The Adventures of Philip Marlowe</artist>
+  </file>
+  <file name="Philip_Marlowe_50-06-14_ep088_Face_to_Forget.mp3" source="original">
+    <format>VBR MP3</format>
+    <creator>The Adventures of Philip Marlowe</creator>
+    <album>06/14/50, episode 88</album>
+    <track>88</track>
+    <md5>f73291d69d1e1bbc1e4028aaa5fe6185</md5>
+    <title>Face to Forget</title>
+    <mtime>1188603864</mtime>
+    <size>28213258</size>
+    <crc32>1ff009d1</crc32>
+    <sha1>f2ecf3e7af29fc2f2f786f4431235b980a33711a</sha1>
+    <length>1763.32</length>
+    <height>734</height>
+    <width>696</width>
+    <genre>Old Time Radio Detectives</genre>
+    <artist>The Adventures of Philip Marlowe</artist>
+  </file>
+  <file name="Philip_Marlowe_49-09-03_ep048_The_Bums_Rush.mp3" source="original">
+    <format>VBR MP3</format>
+    <creator>The Adventures of Philip Marlowe</creator>
+    <album>09/03/49, episode 48</album>
+    <track>48</track>
+    <md5>64ac97dd50f5a30b80f244a73d014797</md5>
+    <title>The Bum's Rush</title>
+    <mtime>1188716109</mtime>
+    <size>14229514</size>
+    <crc32>6554ab5f</crc32>
+    <sha1>b270c8fe625ecdef3944a1122088a4360a24b056</sha1>
+    <length>1778.68</length>
+    <height>734</height>
+    <width>696</width>
+    <genre>Other</genre>
+    <artist>The Adventures of Philip Marlowe</artist>
+  </file>
+  <file name="Philip_Marlowe_49-11-05_ep057_The_Fine_Italian_Hand.mp3" source="original">
+    <format>VBR MP3</format>
+    <creator>The Adventures of Philip Marlowe</creator>
+    <album>11/05/49, episode 57</album>
+    <track>57</track>
+    <md5>fc1fc9905faf1345ebc569e7fa209d20</md5>
+    <title>The Fine Italian Hand</title>
+    <mtime>1188717729</mtime>
+    <size>14204938</size>
+    <crc32>82184ad4</crc32>
+    <sha1>b8aaac31b5a5c2477418b4c91502216a5265638b</sha1>
+    <length>1775.61</length>
+    <height>734</height>
+    <width>696</width>
+    <genre>Other</genre>
+    <artist>The Adventures of Philip Marlowe</artist>
+  </file>
+  <file name="Philip_Marlowe_50-03-21_ep076_The_Deep_Shadow.mp3" source="original">
+    <format>VBR MP3</format>
+    <creator>The Adventures of Philip Marlowe</creator>
+    <album>03/21/50, episode 76</album>
+    <track>76</track>
+    <md5>673e64eae0da753c51cea8c4bfa93768</md5>
+    <title>The Deep Shadow</title>
+    <mtime>1188601865</mtime>
+    <size>17704970</size>
+    <crc32>29ac3584</crc32>
+    <sha1>5ad67c60050b28c11d513ac57df8b87fb14aa489</sha1>
+    <length>1762.79</length>
+    <height>734</height>
+    <width>696</width>
+    <genre>Old Time Radio Detectives</genre>
+    <artist>The Adventures of Philip Marlowe</artist>
+  </file>
+  <file name="Philip_Marlowe_50-08-25_ep098_The_Collectors_Item.mp3" source="original">
+    <format>VBR MP3</format>
+    <creator>The Adventures of Philip Marlowe</creator>
+    <album>08/25/50, episode 98</album>
+    <track>98</track>
+    <md5>c225a7e00b90e4f64703a903bb6166bf</md5>
+    <title>The Collector's Item</title>
+    <mtime>1188605414</mtime>
+    <size>14303242</size>
+    <crc32>9f83ea0e</crc32>
+    <sha1>7aa73328b28c5ab9b135b025c70da514e237289f</sha1>
+    <length>1787.9</length>
+    <height>734</height>
+    <width>696</width>
+    <genre>Old Time Radio Detectives</genre>
+    <artist>The Adventures of Philip Marlowe</artist>
+  </file>
+  <file name="Philip_Marlowe_50-05-16_ep084_The_Cloak_of_Kamehameha.mp3" source="original">
+    <format>VBR MP3</format>
+    <creator>The Adventures of Philip Marlowe</creator>
+    <album>05/16/50, episode 84</album>
+    <track>84</track>
+    <md5>718709ac8efd89332cb57273b79f9554</md5>
+    <title>Cloak of Kamehameha</title>
+    <mtime>1188603184</mtime>
+    <size>28524554</size>
+    <crc32>60f06fff</crc32>
+    <sha1>5bdc1d3bc93043f018a7e339f9e99436c1082ec2</sha1>
+    <length>1782.78</length>
+    <height>734</height>
+    <width>696</width>
+    <genre>Other</genre>
+    <artist>The Adventures of Philip Marlowe</artist>
+  </file>
+  <file name="Philip_Marlowe_48-09-26_001_Red_Wind.mp3" source="original">
+    <format>VBR MP3</format>
+    <creator>The Adventures of Philip Marlowe</creator>
+    <album>09/26/48, episode 1</album>
+    <track>1</track>
+    <md5>c2c9bfa417de3b3d398f6faa1e1bc1fd</md5>
+    <title>The Red Wind</title>
+    <mtime>1188662404</mtime>
+    <size>14260234</size>
+    <crc32>284cc3ef</crc32>
+    <sha1>3b952905142d52212b63e9c6b4222c2dc4f0c711</sha1>
+    <length>1782.52</length>
+    <height>734</height>
+    <width>696</width>
+    <genre>Other</genre>
+    <artist>The Adventures of Philip Marlowe</artist>
+  </file>
+  <file name="Philip_Marlowe_49-02-12_020_The_Lonesome_Reunion.mp3" source="original">
+    <format>VBR MP3</format>
+    <creator>The Adventures of Philip Marlowe</creator>
+    <album>02/12/49, episode 20</album>
+    <track>20</track>
+    <md5>d9fc937a7a3f0e02cfee20905a774204</md5>
+    <title>The Lonesome Reunion</title>
+    <mtime>1188664691</mtime>
+    <size>20781066</size>
+    <crc32>302d4a75</crc32>
+    <sha1>06a2a8cb50f7de42868c6260ce9eaaf572fa7f35</sha1>
+    <length>1731.75</length>
+    <height>734</height>
+    <width>696</width>
+    <genre>Other</genre>
+    <artist>The Adventures of Philip Marlowe</artist>
+  </file>
+  <file name="Philip_Marlowe_51-08-23_epxxx_Heir_for_G-String_eprehearsal.mp3" source="original">
+    <format>VBR MP3</format>
+    <creator>The Adventures of Philip Marlowe</creator>
+    <album>08/23/51, episode 115</album>
+    <md5>e9f8d8d8041da983143e5d3a1a586096</md5>
+    <title>Heir for G-String (rehearsal)</title>
+    <mtime>1188607411</mtime>
+    <size>24270858</size>
+    <crc32>b1a63900</crc32>
+    <sha1>2cc26f0a1c40ad2f947fc5adc829bacea32bc495</sha1>
+    <length>1516.92</length>
+    <height>734</height>
+    <width>696</width>
+    <genre>Old Time Radio Detectives</genre>
+    <artist>The Adventures of Philip Marlowe</artist>
+  </file>
+  <file name="Philip_Marlowe_50-08-11_ep096_The_Quiet_Magpie.mp3" source="original">
+    <format>VBR MP3</format>
+    <creator>The Adventures of Philip Marlowe</creator>
+    <album>08/11/50, episode 96</album>
+    <track>96</track>
+    <md5>3a99f0b69e20d26047dfb4997c956b8b</md5>
+    <title>The Quiet Magpie</title>
+    <mtime>1188605113</mtime>
+    <size>14303242</size>
+    <crc32>0f9eb619</crc32>
+    <sha1>f77e20a49192930f1e0d2175fcf9aec35dcbb7f5</sha1>
+    <length>1787.9</length>
+    <height>734</height>
+    <width>696</width>
+    <genre>Old Time Radio Detectives</genre>
+    <artist>The Adventures of Philip Marlowe</artist>
+  </file>
+  <file name="Philip_Marlowe_49-05-07_ep032_The_Feminine_Touch.mp3" source="original">
+    <format>VBR MP3</format>
+    <creator>The Adventures of Philip Marlowe</creator>
+    <album>05/07/49, episode 32</album>
+    <track>32</track>
+    <md5>5cfed02ed580da765723fe85ab0ead18</md5>
+    <title>Feminine Touch</title>
+    <mtime>1188713358</mtime>
+    <size>14422026</size>
+    <crc32>fe82eeb8</crc32>
+    <sha1>11b29684693675652b57e091fa647af3dbe09816</sha1>
+    <length>1802.75</length>
+    <height>734</height>
+    <width>696</width>
+    <genre>Old Time Radio Detectives</genre>
+    <artist>The Adventures of Philip Marlowe</artist>
+  </file>
+  <file name="Philip_Marlowe_49-09-17_ep050_The_Baton_Sinister.mp3" source="original">
+    <format>VBR MP3</format>
+    <creator>The Adventures of Philip Marlowe</creator>
+    <album>09/17/49, episode 50</album>
+    <track>50</track>
+    <md5>7bda970ef3f91313620b3135d40a0dca</md5>
+    <title>The Baton Sinister</title>
+    <mtime>1188716476</mtime>
+    <size>14311434</size>
+    <crc32>807112f2</crc32>
+    <sha1>c04cdef47fc42ccbaea421b70d2ccbf34ac07a14</sha1>
+    <length>1788.92</length>
+    <height>734</height>
+    <width>696</width>
+    <genre>Other</genre>
+    <artist>The Adventures of Philip Marlowe</artist>
+  </file>
+  <file name="Philip_Marlowe_50-06-21_ep089_The_Gold_Cobra.mp3" source="original">
+    <format>VBR MP3</format>
+    <creator>The Adventures of Philip Marlowe</creator>
+    <album>06/21/50, episode 89</album>
+    <track>89</track>
+    <md5>2edfc2eb4fc4bf8aed1eb71c4d17bdde</md5>
+    <title>Golden Cobra</title>
+    <mtime>1188604009</mtime>
+    <size>14403594</size>
+    <crc32>e30418f5</crc32>
+    <sha1>bfea66a331b10b8344ae386743013379c00f765b</sha1>
+    <length>1800.44</length>
+    <height>734</height>
+    <width>696</width>
+    <genre>Old Time Radio Detectives</genre>
+    <artist>The Adventures of Philip Marlowe</artist>
+  </file>
+  <file name="Philip_Marlowe_50-06-28_ep090_The_Pelicans_Roost.mp3" source="original">
+    <format>VBR MP3</format>
+    <creator>The Adventures of Philip Marlowe</creator>
+    <album>06/28/50, episode 90</album>
+    <track>90</track>
+    <md5>0853635b50b8b274b76b9586d3a03e7e</md5>
+    <title>The Pelican's Roost</title>
+    <mtime>1188604175</mtime>
+    <size>17678346</size>
+    <crc32>83916b36</crc32>
+    <sha1>5c911ffb8be3d6ef62a3213f81b530d26c03b154</sha1>
+    <length>1760.18</length>
+    <height>734</height>
+    <width>696</width>
+    <genre>Old Time Radio Detectives</genre>
+    <artist>The Adventures of Philip Marlowe</artist>
+  </file>
+  <file name="Philip_Marlowe_50-04-04_ep078_The_Man_on_the_Roof.mp3" source="original">
+    <format>VBR MP3</format>
+    <creator>The Adventures of Philip Marlowe</creator>
+    <album>04/04/50, episode 78</album>
+    <track>78</track>
+    <md5>e529dfae23b78b61e3ff6a0509747d8c</md5>
+    <title>The Man on the Roof</title>
+    <mtime>1188602197</mtime>
+    <size>17698826</size>
+    <crc32>736dce0a</crc32>
+    <sha1>e6d6670ae1840218aadd299f7e39ebd2f9bc3266</sha1>
+    <length>1762.11</length>
+    <height>734</height>
+    <width>696</width>
+    <genre>Old Time Radio Detectives</genre>
+    <artist>The Adventures of Philip Marlowe</artist>
+  </file>
+  <file name="Philip_Marlowe_49-08-27_ep047_The_Eager_Witness.mp3" source="original">
+    <format>VBR MP3</format>
+    <creator>The Adventures of Philip Marlowe</creator>
+    <album>08/27/49, episode 47</album>
+    <track>47</track>
+    <md5>2ada2006a298d31fbb715c25c569c9c7</md5>
+    <title>The Eager Witness</title>
+    <mtime>1188715975</mtime>
+    <size>14393354</size>
+    <crc32>036b3820</crc32>
+    <sha1>9213f3624d203f8cf415bf42f81fa351cbcb9149</sha1>
+    <length>1799.16</length>
+    <height>734</height>
+    <width>696</width>
+    <genre>Other</genre>
+    <artist>The Adventures of Philip Marlowe</artist>
+  </file>
+  <file name="Philip_Marlowe_49-07-16_ep042_The_Headless_Peacock.mp3" source="original">
+    <format>VBR MP3</format>
+    <creator>The Adventures of Philip Marlowe</creator>
+    <album>07/16/49, episode 42</album>
+    <md5>a576fa93dde57546008bfb8adcc51e47</md5>
+    <title>The Headless Peacock</title>
+    <track>42</track>
+    <mtime>1188715167</mtime>
+    <size>14319626</size>
+    <crc32>65aa4941</crc32>
+    <sha1>52b4316e164e467fc787df03d2a5feb285a5d9ed</sha1>
+    <length>1789.95</length>
+    <height>734</height>
+    <width>696</width>
+    <genre>Other</genre>
+    <artist>The Adventures of Philip Marlowe</artist>
+  </file>
+  <file name="Philip_Marlowe_50-08-18_ep097_The_Dark_Tunnel.mp3" source="original">
+    <format>VBR MP3</format>
+    <creator>The Adventures of Philip Marlowe</creator>
+    <album>08/18/50, episode 97</album>
+    <track>97</track>
+    <md5>1cf5690c2da756fb00c5727d250d5b7e</md5>
+    <title>The Dark Tunnel</title>
+    <mtime>1188605260</mtime>
+    <size>14297098</size>
+    <crc32>bc09bd37</crc32>
+    <sha1>4666d0c6eb96d1eeabe523fdf7f8af5ada613d40</sha1>
+    <length>1787.13</length>
+    <height>734</height>
+    <width>696</width>
+    <genre>Old Time Radio Detectives</genre>
+    <artist>The Adventures of Philip Marlowe</artist>
+  </file>
+  <file name="Philip_Marlowe_49-09-10_ep049_The_Rustin_Hickory.mp3" source="original">
+    <format>VBR MP3</format>
+    <creator>The Adventures of Philip Marlowe</creator>
+    <album>09/10/49, episode 49</album>
+    <track>49</track>
+    <md5>aec901aa0cec8ad2b1fe854abd236979</md5>
+    <title>Rushton Hickory</title>
+    <mtime>1188716239</mtime>
+    <size>14213130</size>
+    <crc32>3676652a</crc32>
+    <sha1>b6d83996c1c163df65379eab099e2567a2d14f4d</sha1>
+    <length>1776.64</length>
+    <height>734</height>
+    <width>696</width>
+    <genre>Other</genre>
+    <artist>The Adventures of Philip Marlowe</artist>
+  </file>
+  <file name="Philip_Marlowe_49-10-08_ep053_The_Open_Window.mp3" source="original">
+    <format>VBR MP3</format>
+    <creator>The Adventures of Philip Marlowe</creator>
+    <album>10/08/49, episode 53</album>
+    <track>53</track>
+    <md5>808bc6d7e2d154b3cea2553776e832f5</md5>
+    <title>The Open Window</title>
+    <mtime>1188717030</mtime>
+    <size>21465098</size>
+    <crc32>df8407b5</crc32>
+    <sha1>e6c94a793dd536aa50e379be273ed3e002d7be29</sha1>
+    <length>1788.75</length>
+    <height>734</height>
+    <width>696</width>
+    <genre>Blues</genre>
+    <artist>The Adventures of Philip Marlowe</artist>
+  </file>
+  <file name="Philip_Marlowe_49-11-26_ep060_The_Birds_on_the_Wing.mp3" source="original">
+    <format>VBR MP3</format>
+    <creator>The Adventures of Philip Marlowe</creator>
+    <album>11/26/49, episode 60</album>
+    <track>60</track>
+    <md5>043d262bbd3610863ea786bc0ec3e113</md5>
+    <title>The Birds on the Wing</title>
+    <mtime>1188717917</mtime>
+    <size>17694730</size>
+    <crc32>ecd3fc14</crc32>
+    <sha1>7007f52a0786e863ec5ddf8f3955cd1e14052d5c</sha1>
+    <length>1761.72</length>
+    <height>734</height>
+    <width>696</width>
+    <genre>Old Time Radio Detectives</genre>
+    <artist>The Adventures of Philip Marlowe</artist>
+  </file>
+  <file name="Philip_Marlowe_50-09-01_ep099_The_Soft_Spot.mp3" source="original">
+    <format>VBR MP3</format>
+    <creator>The Adventures of Philip Marlowe</creator>
+    <album>09/01/50, episode 99</album>
+    <track>99</track>
+    <md5>b94ab7ce5186fea4cfbf613a36086ccf</md5>
+    <title>The Soft Spot</title>
+    <mtime>1188605581</mtime>
+    <size>17657866</size>
+    <crc32>770c6dfc</crc32>
+    <sha1>45a9850c2c0e61fc515832be3e0f230ab4b3d56c</sha1>
+    <length>1758.01</length>
+    <height>734</height>
+    <width>696</width>
+    <genre>Old Time Radio Detectives</genre>
+    <artist>The Adventures of Philip Marlowe</artist>
+  </file>
+  <file name="Philip_Marlowe_48-10-17_004_Where_Theres_a_Will.mp3" source="original">
+    <format>VBR MP3</format>
+    <creator>The Adventures of Philip Marlowe</creator>
+    <album>10/17/48, episode 4</album>
+    <track>4</track>
+    <md5>4234a20955486d830538ec862850320f</md5>
+    <title>Where There's a Will</title>
+    <mtime>1188663023</mtime>
+    <size>28307466</size>
+    <crc32>2a99e040</crc32>
+    <sha1>52249fbb06dc832e45c6077f581572a3d4e44e1e</sha1>
+    <length>1769.21</length>
+    <height>734</height>
+    <width>696</width>
+    <genre>Old Time Radio Detectives</genre>
+    <artist>The Adventures of Philip Marlowe</artist>
+  </file>
+  <file name="Philip_Marlowe_49-12-03_ep061_The_Kid_on_the_Corner.mp3" source="original">
+    <format>VBR MP3</format>
+    <creator>The Adventures of Philip Marlowe</creator>
+    <album>12/03/49, episode 61</album>
+    <track>61</track>
+    <md5>6e9806defdacf6f58160133cbda44c08</md5>
+    <title>The Kid on the Corner</title>
+    <mtime>1188718090</mtime>
+    <size>17674250</size>
+    <crc32>74a74d51</crc32>
+    <sha1>50cfabef955e0db5add00b46945c879a7daa1e5e</sha1>
+    <length>1759.79</length>
+    <height>734</height>
+    <width>696</width>
+    <genre>Old Time Radio Detectives</genre>
+    <artist>The Adventures of Philip Marlowe</artist>
+  </file>
+  <file name="Philip_Marlowe_50-09-08_ep100_The_Fifth_Mask.mp3" source="original">
+    <format>VBR MP3</format>
+    <creator>The Adventures of Philip Marlowe</creator>
+    <album>09/08/50, episode 100</album>
+    <track>100</track>
+    <md5>09b92e476c43bcfb9cd6994e1b68391d</md5>
+    <title>The Fifth Mask</title>
+    <mtime>1188605754</mtime>
+    <size>17668106</size>
+    <crc32>4ada9a27</crc32>
+    <sha1>d2e5073066dc922fbd8344f28c7ffa118b72378e</sha1>
+    <length>1759.21</length>
+    <height>734</height>
+    <width>696</width>
+    <genre>Old Time Radio Detectives</genre>
+    <artist>The Adventures of Philip Marlowe</artist>
+  </file>
+  <file name="Philip_Marlowe_51-07-28_ep107_The_Good_Neighbor_Policy.mp3" source="original">
+    <format>VBR MP3</format>
+    <creator>The Adventures of Philip Marlowe</creator>
+    <album>07/28/51, episode 107</album>
+    <track>107</track>
+    <md5>ab1d5e09623a4b7b89f9c9a782d369c8</md5>
+    <title>Good Neighbor Policy</title>
+    <mtime>1188606885</mtime>
+    <size>14223370</size>
+    <crc32>e6babce0</crc32>
+    <sha1>b4a3a3a1b6d9cb0886c6aab1f631078847b8d697</sha1>
+    <length>1777.92</length>
+    <height>734</height>
+    <width>696</width>
+    <genre>Old Time Radio Detectives</genre>
+    <artist>The Adventures of Philip Marlowe</artist>
+  </file>
+  <file name="Philip_Marlowe_50-03-07_ep074_The_Monkeys_Uncle.mp3" source="original">
+    <format>VBR MP3</format>
+    <creator>The Adventures of Philip Marlowe</creator>
+    <album>03/07/50, episode 74</album>
+    <track>74</track>
+    <md5>a276f78efd581d99c84411878bfacc63</md5>
+    <title>The Monkey's Uncle</title>
+    <mtime>1188719627</mtime>
+    <size>17688586</size>
+    <crc32>5621e231</crc32>
+    <sha1>ec772468dfc17e72bf4da88fae7776b376f9a2c7</sha1>
+    <length>1761.25</length>
+    <height>734</height>
+    <width>696</width>
+    <genre>Old Time Radio Detectives</genre>
+    <artist>The Adventures of Philip Marlowe</artist>
+  </file>
+  <file name="Philip_Marlowe_50-02-07_ep070_The_Long_Arm.mp3" source="original">
+    <format>VBR MP3</format>
+    <creator>The Adventures of Philip Marlowe</creator>
+    <album>02/07/50, episode 70</album>
+    <track>70</track>
+    <md5>99ac140c10a3be731cbaf6f6abbd2d4b</md5>
+    <title>The Long Arm</title>
+    <mtime>1188719061</mtime>
+    <size>14364682</size>
+    <crc32>57bc4c13</crc32>
+    <sha1>90c2347bbaf5771c575c962bf3248f99b2f1778b</sha1>
+    <length>1795.58</length>
+    <height>734</height>
+    <width>696</width>
+    <genre>Old Time Radio Detectives</genre>
+    <artist>The Adventures of Philip Marlowe</artist>
+  </file>
+  <file name="Philip_Marlowe_51-08-18_ep110_The_Young_Mans_Fancy.mp3" source="original">
+    <format>VBR MP3</format>
+    <creator>The Adventures of Philip Marlowe</creator>
+    <album>08/18/51, episode 110</album>
+    <track>110</track>
+    <md5>6f88907069201c6e43f488810f3b819c</md5>
+    <title>Young Man's Fancy</title>
+    <mtime>1188607178</mtime>
+    <size>14319626</size>
+    <crc32>615a5854</crc32>
+    <sha1>b79319d5cf71936b37a7dec5531fe6b0e0346893</sha1>
+    <length>1789.95</length>
+    <height>734</height>
+    <width>696</width>
+    <genre>Old Time Radio Detectives</genre>
+    <artist>The Adventures of Philip Marlowe</artist>
+  </file>
+  <file name="Philip_Marlowe_50-02-21_ep072_The_Ladies_Night.mp3" source="original">
+    <format>VBR MP3</format>
+    <creator>The Adventures of Philip Marlowe</creator>
+    <album>02/21/50, episode 72</album>
+    <track>72</track>
+    <md5>d4c745624ab0a6209b2edd28a7bdce65</md5>
+    <title>The Ladies Night</title>
+    <mtime>1188719326</mtime>
+    <size>14290954</size>
+    <crc32>39c91a8a</crc32>
+    <sha1>2e81cc3ee8a6ee5db21373a1615c46174d7f20d8</sha1>
+    <length>1786.36</length>
+    <height>734</height>
+    <width>696</width>
+    <genre>Old Time Radio Detectives</genre>
+    <artist>The Adventures of Philip Marlowe</artist>
+  </file>
+  <file name="Philip_Marlowe_48-10-24_005_The_Heart_of_Gold.mp3" source="original">
+    <format>VBR MP3</format>
+    <creator>The Adventures of Philip Marlowe</creator>
+    <album>10/24/48, episode 5</album>
+    <track>5</track>
+    <md5>8a274ae4c48560e45237af7daed89d23</md5>
+    <title>The Heart of Gold</title>
+    <mtime>1188663166</mtime>
+    <size>14532618</size>
+    <crc32>76850629</crc32>
+    <sha1>860cf489703dfbc112a2246d67409d7b1fdba30f</sha1>
+    <length>1816.57</length>
+    <height>734</height>
+    <width>696</width>
+    <genre>Other</genre>
+    <artist>The Adventures of Philip Marlowe</artist>
+  </file>
+  <file name="Philip_Marlowe_50-09-15_ep101_The_Final_Payment.mp3" source="original">
+    <format>VBR MP3</format>
+    <creator>The Adventures of Philip Marlowe</creator>
+    <album>09/15/50, episode 101</album>
+    <track>101</track>
+    <md5>a056671d983d0bd74912d35396bfb6a8</md5>
+    <title>The Final Payment</title>
+    <mtime>1188605924</mtime>
+    <size>17750026</size>
+    <crc32>e18958f9</crc32>
+    <sha1>da15688259ddf98aa5b4788bcd5d8f5aedef5a4f</sha1>
+    <length>1767.26</length>
+    <height>734</height>
+    <width>696</width>
+    <genre>Old Time Radio Detectives</genre>
+    <artist>The Adventures of Philip Marlowe</artist>
+  </file>
+  <file name="Philip_Marlowe_51-09-08_ep113_The_Medium_Was_Rare.mp3" source="original">
+    <format>VBR MP3</format>
+    <creator>The Adventures of Philip Marlowe</creator>
+    <album>09/08/51, episode 113</album>
+    <track>113</track>
+    <md5>ec74404826e0fc3be419561c99914dc5</md5>
+    <title>The Medium Was Rare</title>
+    <mtime>1188608038</mtime>
+    <size>17627146</size>
+    <crc32>95ceb54f</crc32>
+    <sha1>f97af9c7ea49261e64f3f7a367515dc69fba7c31</sha1>
+    <length>1755.11</length>
+    <height>734</height>
+    <width>696</width>
+    <artist>The Adventures of Philip Marlowe</artist>
+  </file>
+  <file name="Philip_Marlowe_48-10-10_003_The_Panama_Hat.mp3" source="original">
+    <format>VBR MP3</format>
+    <creator>The Adventures of Philip Marlowe</creator>
+    <album>10/10/48, episode 3</album>
+    <track>3</track>
+    <md5>f25920bf5fdcc29fca85afafc060d384</md5>
+    <title>The Panama Hat</title>
+    <mtime>1188662679</mtime>
+    <size>13856778</size>
+    <crc32>3dbd163d</crc32>
+    <sha1>8ef7d07ff147c0fe3a1b700abf30957d66ce9a04</sha1>
+    <length>1732.09</length>
+    <height>734</height>
+    <width>696</width>
+    <genre>Old Time Radio Detectives</genre>
+    <artist>The Adventures of Philip Marlowe</artist>
+  </file>
+  <file name="Philip_Marlowe_49-10-15_ep054_The_Strangle_Hold.mp3" source="original">
+    <format>VBR MP3</format>
+    <creator>The Adventures of Philip Marlowe</creator>
+    <album>10/15/49, episode 54</album>
+    <track>54</track>
+    <md5>66ae39070ecc45dab5ed190ddd421523</md5>
+    <title>The Strangle Hold</title>
+    <mtime>1188717171</mtime>
+    <size>14499850</size>
+    <crc32>289d59c0</crc32>
+    <sha1>1ca857deb6380a7ac33c5ed07555c9b5f8e9ad08</sha1>
+    <length>1812.48</length>
+    <height>734</height>
+    <width>696</width>
+    <genre>Other</genre>
+    <artist>The Adventures of Philip Marlowe</artist>
+  </file>
+  <file name="Philip_Marlowe_49-07-02_ep040_The_Dude_from_Manhattan.mp3" source="original">
+    <format>VBR MP3</format>
+    <creator>The Adventures of Philip Marlowe</creator>
+    <album>07/02/49, episode 40</album>
+    <track>40</track>
+    <md5>2f5c76f6e29841f68341b52848fd14f9</md5>
+    <title>Dude from Manhattan</title>
+    <mtime>1188714985</mtime>
+    <size>14065674</size>
+    <crc32>fc354eee</crc32>
+    <sha1>b6d289df8fdc2af2523a6d119714da07b2e583ee</sha1>
+    <length>1758.2</length>
+    <height>734</height>
+    <width>696</width>
+    <genre>Old Time Radio Detectives</genre>
+    <artist>The Adventures of Philip Marlowe</artist>
+  </file>
+  <file name="Philip_Marlowe_47-07-08_004_The_King_in_Yellow.mp3" source="original">
+    <format>VBR MP3</format>
+    <creator>The Adventures of Philip Marlowe</creator>
+    <album>07/08/47, episode 4</album>
+    <track>4</track>
+    <md5>d280981522e88b3131352478672e58c0</md5>
+    <title>King in Yellow</title>
+    <mtime>1188662130</mtime>
+    <size>14321674</size>
+    <crc32>069834a7</crc32>
+    <sha1>676274b386f1ffd3a2dd2bfa89645711d2a4fb78</sha1>
+    <length>1790.2</length>
+    <height>597</height>
+    <width>427</width>
+    <genre>Old Time Radio Detectives</genre>
+    <artist>The Adventures of Philip Marlowe</artist>
+  </file>
+  <file name="Philip_Marlowe_50-05-23_ep085_The_Foxs_Tail.mp3" source="original">
+    <format>VBR MP3</format>
+    <creator>The Adventures of Philip Marlowe</creator>
+    <album>05/23/50, episode 85</album>
+    <track>85</track>
+    <md5>616e36659ad6acb127f524643ebe187e</md5>
+    <title>The Fox's Tail</title>
+    <mtime>1188603325</mtime>
+    <size>14327818</size>
+    <crc32>a00d7bf7</crc32>
+    <sha1>c562c3869ae2b569f7ff958218de10e864737fa6</sha1>
+    <length>1790.97</length>
+    <height>734</height>
+    <width>696</width>
+    <genre>Old Time Radio Detectives</genre>
+    <artist>The Adventures of Philip Marlowe</artist>
+  </file>
+  <file name="Philip_Marlowe_49-06-04_ep036_The_Unfair_Lady.mp3" source="original">
+    <format>VBR MP3</format>
+    <creator>The Adventures of Philip Marlowe</creator>
+    <album>06/04/49, episode 36</album>
+    <track>36</track>
+    <md5>1080be4a00bb96d260a018c0f6ed8618</md5>
+    <title>The Unfair Lady</title>
+    <mtime>1188714211</mtime>
+    <size>14430218</size>
+    <crc32>3bbdd4ab</crc32>
+    <sha1>44c4be9ee62a6e7027bb9750ea90e8eed583d715</sha1>
+    <length>1803.77</length>
+    <height>734</height>
+    <width>696</width>
+    <genre>Old Time Radio Detectives</genre>
+    <artist>The Adventures of Philip Marlowe</artist>
+  </file>
+  <file name="Philip_Marlowe_51-08-25_ep111_Heir_for_G-String.mp3" source="original">
+    <format>VBR MP3</format>
+    <creator>The Adventures of Philip Marlowe</creator>
+    <album>08/25/51, episode 111</album>
+    <track>111</track>
+    <md5>db0d088356372affd5672ae040d7491f</md5>
+    <title>Heir for G-String</title>
+    <mtime>1188607575</mtime>
+    <size>17625098</size>
+    <crc32>f590332a</crc32>
+    <sha1>ac9b89dee99f20d61fd0f23c7b942219773ff6eb</sha1>
+    <length>1754.77</length>
+    <height>734</height>
+    <width>696</width>
+    <genre>Other</genre>
+    <artist>The Adventures of Philip Marlowe</artist>
+  </file>
+  <file name="Philip_Marlowe_50-09-22_ep102_The_White_Carnation.mp3" source="original">
+    <format>VBR MP3</format>
+    <creator>The Adventures of Philip Marlowe</creator>
+    <album>09/22/50, episode 102</album>
+    <track>102</track>
+    <md5>573b1136cb248e102f3e33f498ce0480</md5>
+    <title>The White Carnation</title>
+    <mtime>1188606101</mtime>
+    <size>17713162</size>
+    <crc32>ae2581ea</crc32>
+    <sha1>776966469d6c27e07cf9f6d3328daac3820df30e</sha1>
+    <length>1763.7</length>
+    <height>734</height>
+    <width>696</width>
+    <genre>Old Time Radio Detectives</genre>
+    <artist>The Adventures of Philip Marlowe</artist>
+  </file>
+  <file name="Philip_Marlowe_48-10-03_002_The_Persian_Slippers.mp3" source="original">
+    <format>VBR MP3</format>
+    <creator>The Adventures of Philip Marlowe</creator>
+    <album>10/03/48, episode 2</album>
+    <track>2</track>
+    <md5>3f226554ec91ff0b1f6b51999b8fdb4f</md5>
+    <title>The Persian Slippers</title>
+    <mtime>1188662546</mtime>
+    <size>14284810</size>
+    <crc32>e3b6933a</crc32>
+    <sha1>6614f6c9776e66d0f353d52429e31c6030f08b48</sha1>
+    <length>1785.6</length>
+    <height>734</height>
+    <width>696</width>
+    <genre>Old Time Radio Detectives</genre>
+    <artist>The Adventures of Philip Marlowe</artist>
+  </file>
+  <file name="Philip_Marlowe_51-07-14_ep105_The_Dear_Dead_Days.mp3" source="original">
+    <format>VBR MP3</format>
+    <creator>The Adventures of Philip Marlowe</creator>
+    <album>07/14/51, episode 105</album>
+    <track>105</track>
+    <md5>8315f21cd39485ed212548717b3ed95e</md5>
+    <title>The Dear, Dead Days</title>
+    <mtime>1188606613</mtime>
+    <size>17641482</size>
+    <crc32>00faad1f</crc32>
+    <sha1>dad3d4fa625dedf36d919f24dc5467e45642b2ec</sha1>
+    <length>1756.36</length>
+    <height>734</height>
+    <width>696</width>
+    <genre>Old Time Radio Detectives</genre>
+    <artist>The Adventures of Philip Marlowe</artist>
+  </file>
+  <file name="Philip_Marlowe_49-01-29_018_The_Easy_Mark.mp3" source="original">
+    <format>VBR MP3</format>
+    <creator>The Adventures of Philip Marlowe</creator>
+    <album>01/29/49, episode 18</album>
+    <track>18</track>
+    <md5>a3242b29562dc4d672c009b57dfe2e41</md5>
+    <title>The Easy Mark</title>
+    <mtime>1188664345</mtime>
+    <size>21039114</size>
+    <crc32>93d749a9</crc32>
+    <sha1>a87955fc064e021af1e296506f65ec9c4b1f9976</sha1>
+    <length>1753.25</length>
+    <height>734</height>
+    <width>696</width>
+    <genre>Other</genre>
+    <artist>The Adventures of Philip Marlowe</artist>
+  </file>
+  <file name="Philip_Marlowe_49-04-30_ep031_The_Lady_in_Mink.mp3" source="original">
+    <format>VBR MP3</format>
+    <creator>The Adventures of Philip Marlowe</creator>
+    <album>04/30/49, episode 31</album>
+    <track>31</track>
+    <md5>4276e3892c7a3e9abca59090b116df7d</md5>
+    <title>Lady in Mink</title>
+    <mtime>1188713152</mtime>
+    <size>14360586</size>
+    <crc32>9324ba2f</crc32>
+    <sha1>4a57c91fd6dab6d5c2e0e5bb0054a4427d6992d9</sha1>
+    <length>1795.07</length>
+    <height>734</height>
+    <width>696</width>
+    <genre>Old Time Radio Detectives</genre>
+    <artist>The Adventures of Philip Marlowe</artist>
+  </file>
+  <file name="Philip_Marlowe_51-08-04_ep108_The_Long_Way_Home.mp3" source="original">
+    <format>VBR MP3</format>
+    <creator>The Adventures of Philip Marlowe</creator>
+    <album>08/04/51, episode 108</album>
+    <track>108</track>
+    <md5>f70e7e5d4c0a10307b5aa5463fe6ae4e</md5>
+    <title>The Long Way Home</title>
+    <mtime>1188607028</mtime>
+    <size>14284810</size>
+    <crc32>a2b836f1</crc32>
+    <sha1>5356567a438e2f2581d5f75a4383ee4049874295</sha1>
+    <length>1785.6</length>
+    <height>734</height>
+    <width>696</width>
+    <genre>Old Time Radio Detectives</genre>
+    <artist>The Adventures of Philip Marlowe</artist>
+  </file>
+  <file name="Philip_Marlowe_50-05-02_ep082_The_Sea_Horse_Jockey.mp3" source="original">
+    <format>VBR MP3</format>
+    <creator>The Adventures of Philip Marlowe</creator>
+    <album>05/02/50, episode 82</album>
+    <track>82</track>
+    <md5>0bfb9d67c940d2764a0fe61e14a8fe25</md5>
+    <title>The Sea Horse Jockey</title>
+    <mtime>1188602767</mtime>
+    <size>14422026</size>
+    <crc32>010c9221</crc32>
+    <sha1>5a9bafd5f28a3b2d524f816d50e70e404cb6249b</sha1>
+    <length>1802.75</length>
+    <height>734</height>
+    <width>696</width>
+    <genre>Old Time Radio Detectives</genre>
+    <artist>The Adventures of Philip Marlowe</artist>
+  </file>
+  <file name="Philip_Marlowe_50-03-14_ep075_The_Vital_Statistic.mp3" source="original">
+    <format>VBR MP3</format>
+    <creator>The Adventures of Philip Marlowe</creator>
+    <album>03/14/50, episode 75</album>
+    <track>75</track>
+    <md5>42abe71e860e9b379fabc2860e9e4228</md5>
+    <title>The Vital Statistic</title>
+    <mtime>1188719790</mtime>
+    <size>17696778</size>
+    <crc32>897f48de</crc32>
+    <sha1>810d89d713a369db096c1225146c80fb29948dc5</sha1>
+    <length>1761.98</length>
+    <height>734</height>
+    <width>696</width>
+    <genre>Old Time Radio Detectives</genre>
+    <artist>The Adventures of Philip Marlowe</artist>
+  </file>
+  <file name="Philip_Marlowe_50-04-11_ep079_The_Anniversary_Gift.mp3" source="original">
+    <format>VBR MP3</format>
+    <creator>The Adventures of Philip Marlowe</creator>
+    <album>04/11/50, episode 79</album>
+    <track>79</track>
+    <md5>5eb02c16328ba85afa60ab4b045122c4</md5>
+    <title>The Anniversary Gift</title>
+    <mtime>1188602362</mtime>
+    <size>17633290</size>
+    <crc32>6696653a</crc32>
+    <sha1>1ea1b55352a4545aba4affc934e6a7035338e7b6</sha1>
+    <length>1761.35</length>
+    <height>264</height>
+    <width>202</width>
+    <genre>Old Time Radio Detectives</genre>
+    <artist>The Adventures of Philip Marlowe</artist>
+  </file>
+  <file name="Philip_Marlowe_49-02-05_019_The_Long_Rope.mp3" source="original">
+    <format>VBR MP3</format>
+    <creator>The Adventures of Philip Marlowe</creator>
+    <album>02/05/49, episode 19</album>
+    <track>19</track>
+    <md5>6859b3dcb3091bb1b0dce82b95035221</md5>
+    <title>The Long Rope</title>
+    <mtime>1188664481</mtime>
+    <size>14249994</size>
+    <crc32>f997c7f4</crc32>
+    <sha1>5d1db1d974bedd9bb93fa87d3d9c355ce2330af1</sha1>
+    <length>1781.24</length>
+    <height>734</height>
+    <width>696</width>
+    <genre>Old Time Radio Detectives</genre>
+    <artist>The Adventures of Philip Marlowe</artist>
+  </file>
+  <file name="Philip_Marlowe_51-09-01_ep112_Nether_Nether_Land.mp3" source="original">
+    <format>VBR MP3</format>
+    <creator>The Adventures of Philip Marlowe</creator>
+    <album>09/01/51, episode 112</album>
+    <track>112</track>
+    <md5>182bf68eda0e2987dc7d4e06deb33f5d</md5>
+    <title>Nether Nether Land</title>
+    <mtime>1188607868</mtime>
+    <size>14104586</size>
+    <crc32>6efa7e9c</crc32>
+    <sha1>446ce3a41d97779d4a0e10145cccb665aae37e2a</sha1>
+    <length>1763.07</length>
+    <height>734</height>
+    <width>696</width>
+    <genre>Blues</genre>
+    <artist>The Adventures of Philip Marlowe</artist>
+  </file>
+  <file name="Philip_Marlowe_49-07-30_ep043_Mexican_Boat_Ride.mp3" source="original">
+    <format>VBR MP3</format>
+    <creator>The Adventures of Philip Marlowe</creator>
+    <album>07/30/49, episode 43</album>
+    <track>43</track>
+    <md5>5e372fe67f06da6850d7e7f05e22a704</md5>
+    <title>The Mexican Boat Ride</title>
+    <mtime>1188715449</mtime>
+    <size>28186634</size>
+    <crc32>6fc31e61</crc32>
+    <sha1>4b3c8bb0ed0df7979311925aaa3ca63b7dec7751</sha1>
+    <length>1761.66</length>
+    <height>734</height>
+    <width>696</width>
+    <genre>Old Time Radio Detectives</genre>
+    <artist>The Adventures of Philip Marlowe</artist>
+  </file>
+  <file name="Philip_Marlowe_47-08-05_008_Trouble_Is_My_Business.mp3" source="original">
+    <format>VBR MP3</format>
+    <creator>The Adventures of Philip Marlowe</creator>
+    <album>08/05/47, episode 8</album>
+    <track>8</track>
+    <md5>b4c24ac7c8146ccdcbf3f23b5cabe329</md5>
+    <title>Trouble Is My Business</title>
+    <mtime>1188662267</mtime>
+    <size>14028810</size>
+    <crc32>076829ea</crc32>
+    <sha1>47a967904a77fd65bc7470150d5ae59a33d06ad1</sha1>
+    <length>1753.6</length>
+    <height>597</height>
+    <width>427</width>
+    <genre>Old Time Radio Detectives</genre>
+    <artist>The Adventures of Philip Marlowe</artist>
+  </file>
+  <file name="Philip_Marlowe_49-03-05_023_The_Friend_from_Detroit.mp3" source="original">
+    <format>VBR MP3</format>
+    <creator>The Adventures of Philip Marlowe</creator>
+    <album>03/05/49, episode 23</album>
+    <track>23</track>
+    <md5>93e386da739928d753ca4498273895d8</md5>
+    <title>Friend from Detroit</title>
+    <mtime>1188664839</mtime>
+    <size>14301194</size>
+    <crc32>c3881b80</crc32>
+    <sha1>91c2de261457208e67e72d8e28acf701366cd098</sha1>
+    <length>1787.64</length>
+    <height>734</height>
+    <width>696</width>
+    <genre>Old Time Radio Detectives</genre>
+    <artist>The Adventures of Philip Marlowe</artist>
+  </file>
+  <file name="Philip_Marlowe_50-07-19_ep093_The_Last_Wish.mp3" source="original">
+    <format>VBR MP3</format>
+    <creator>The Adventures of Philip Marlowe</creator>
+    <album>07/19/50, episode 93</album>
+    <track>93</track>
+    <md5>9f249e751ff79373fc1dcc3c3c616dcb</md5>
+    <title>The Last Wish</title>
+    <mtime>1188604611</mtime>
+    <size>14295050</size>
+    <crc32>c15a6f51</crc32>
+    <sha1>731d5176b2da01840ffce8e341acc565879b5d4a</sha1>
+    <length>1786.88</length>
+    <height>734</height>
+    <width>696</width>
+    <genre>Old Time Radio Detectives</genre>
+    <artist>The Adventures of Philip Marlowe</artist>
+  </file>
+  <file name="Philip_Marlowe_49-06-18_ep038_The_Busy_Body.mp3" source="original">
+    <format>VBR MP3</format>
+    <creator>The Adventures of Philip Marlowe</creator>
+    <album>06/18/49, episode 38</album>
+    <track>38</track>
+    <md5>7fedb989fae2c2e3b435be765b2a7e8c</md5>
+    <title>The Busy Body</title>
+    <mtime>1188714625</mtime>
+    <size>14389258</size>
+    <crc32>606abb79</crc32>
+    <sha1>029c11a46a663d3e04aad6ca804a6e433ce26e4d</sha1>
+    <length>1798.65</length>
+    <height>734</height>
+    <width>696</width>
+    <genre>Old Time Radio Detectives</genre>
+    <artist>The Adventures of Philip Marlowe</artist>
+  </file>
+  <file name="Philip_Marlowe_49-10-29_ep056_The_Green_Witch.mp3" source="original">
+    <format>VBR MP3</format>
+    <creator>The Adventures of Philip Marlowe</creator>
+    <album>10/29/49, episode 56</album>
+    <track>56</track>
+    <md5>25cc974adb534074e3286ff8783fd095</md5>
+    <title>The Green Witch</title>
+    <mtime>1188717593</mtime>
+    <size>13647882</size>
+    <crc32>b1ed31f9</crc32>
+    <sha1>fd8d8609528de64c87bdd6ebb79bd05e4b626d0f</sha1>
+    <length>1705.98</length>
+    <height>734</height>
+    <width>696</width>
+    <genre>Other</genre>
+    <artist>The Adventures of Philip Marlowe</artist>
+  </file>
+  <file name="Philip_Marlowe_50-02-28_ep073_The_Big_Step.mp3" source="original">
+    <format>VBR MP3</format>
+    <creator>The Adventures of Philip Marlowe</creator>
+    <album>02/28/50, episode 73</album>
+    <track>73</track>
+    <md5>07a9f47c7dffdc3b0a6ed1486b113531</md5>
+    <title>The Big Step</title>
+    <mtime>1188719463</mtime>
+    <size>14465034</size>
+    <crc32>444b8d19</crc32>
+    <sha1>fdc2ee191ae7d3391316f2f3e43d24948af81747</sha1>
+    <length>1808.12</length>
+    <height>734</height>
+    <width>696</width>
+    <genre>Old Time Radio Detectives</genre>
+    <artist>The Adventures of Philip Marlowe</artist>
+  </file>
+  <file name="Philip_Marlowe_50-07-28_ep094_The_Glass_Donkey.mp3" source="original">
+    <format>VBR MP3</format>
+    <creator>The Adventures of Philip Marlowe</creator>
+    <album>07/28/50, episode 94</album>
+    <track>94</track>
+    <md5>a5431a5b2321f817d6241285e7eb9a5a</md5>
+    <title>The Glass Donkey</title>
+    <mtime>1188604750</mtime>
+    <size>14395402</size>
+    <crc32>cbd146e8</crc32>
+    <sha1>5f52acf02cbf22c1d98aa08ecee42a0bbab75107</sha1>
+    <length>1799.42</length>
+    <height>734</height>
+    <width>696</width>
+    <genre>Old Time Radio Detectives</genre>
+    <artist>The Adventures of Philip Marlowe</artist>
+  </file>
+  <file name="Philip_Marlowe_50-02-14_ep071_The_Grim_Echo.mp3" source="original">
+    <format>VBR MP3</format>
+    <creator>The Adventures of Philip Marlowe</creator>
+    <album>02/14/50, episode 71</album>
+    <track>71</track>
+    <md5>8ae48f1370c4a646351ba37c9e424be5</md5>
+    <title>The Grim Echo</title>
+    <mtime>1188719193</mtime>
+    <size>14350346</size>
+    <crc32>63f3d46d</crc32>
+    <sha1>61e3b71d5a05fb52371eef12a632e392652caaa4</sha1>
+    <length>1793.79</length>
+    <height>734</height>
+    <width>696</width>
+    <genre>Old Time Radio Detectives</genre>
+    <artist>The Adventures of Philip Marlowe</artist>
+  </file>
+  <file name="Philip_Marlowe_51-07-07_ep104_A_Seaside_Sabbatical.mp3" source="original">
+    <format>VBR MP3</format>
+    <creator>The Adventures of Philip Marlowe</creator>
+    <album>07/07/51, episode 104</album>
+    <track>104</track>
+    <md5>65ea7cea9c9ac66546521e06732c0618</md5>
+    <title>The Seaside Sabbatical</title>
+    <mtime>1188606447</mtime>
+    <size>17686538</size>
+    <crc32>32de2257</crc32>
+    <sha1>ffe8f724a7e841d0c67b5f96988088ad6ea77ed5</sha1>
+    <length>1760.91</length>
+    <height>734</height>
+    <width>696</width>
+    <genre>Old Time Radio Detectives</genre>
+    <artist>The Adventures of Philip Marlowe</artist>
+  </file>
+  <file name="Philip_Marlowe_47-06-17_001_Red_Wind.mp3" source="original">
+    <format>VBR MP3</format>
+    <creator>The Adventures of Philip Marlowe</creator>
+    <album>06/17/47, episode 1</album>
+    <track>1</track>
+    <md5>57b38aa701b3f9a61a6c0bd50a463ac4</md5>
+    <title>The Red Wind</title>
+    <mtime>1188661987</mtime>
+    <size>22222858</size>
+    <crc32>080dbbc2</crc32>
+    <sha1>d3915f14155b99aab926d08e4750ec291e0d9497</sha1>
+    <length>1851.9</length>
+    <height>597</height>
+    <width>427</width>
+    <genre>Other</genre>
+    <artist>The Adventures of Philip Marlowe</artist>
+  </file>
+  <file name="Philip_Marlowe_49-01-08_015_The_Restless_Day.mp3" source="original">
+    <format>VBR MP3</format>
+    <creator>The Adventures of Philip Marlowe</creator>
+    <album>01/08/49, episode 15</album>
+    <track>15</track>
+    <md5>32d7051ad97cba03ad62be2582ae4112</md5>
+    <title>The Restless Day</title>
+    <mtime>1188663722</mtime>
+    <size>14331914</size>
+    <crc32>a27e07cd</crc32>
+    <sha1>3d5918d463c3a5a12e3fc41d5009719dc2c9bd36</sha1>
+    <length>1791.48</length>
+    <height>734</height>
+    <width>696</width>
+    <genre>Other</genre>
+    <artist>The Adventures of Philip Marlowe</artist>
+  </file>
+  <file name="Philip_Marlowe_48-11-28_010_The_Hard_Way_Out.mp3" source="original">
+    <format>VBR MP3</format>
+    <creator>The Adventures of Philip Marlowe</creator>
+    <album>11/28/48, episode 10</album>
+    <track>10</track>
+    <md5>cc2add1720489b55864eb1aacde12d66</md5>
+    <title>The Hard Way Out</title>
+    <mtime>1188663441</mtime>
+    <size>28102666</size>
+    <crc32>95771c0c</crc32>
+    <sha1>32078b0266241af5fc7c0a7765b5ca2475370566</sha1>
+    <length>1756.41</length>
+    <height>734</height>
+    <width>696</width>
+    <genre>Old Time Radio Detectives</genre>
+    <artist>The Adventures of Philip Marlowe</artist>
+  </file>
+  <file name="Philip_Marlowe_50-07-12_ep092_The_Iron_Coffin.mp3" source="original">
+    <format>VBR MP3</format>
+    <creator>The Adventures of Philip Marlowe</creator>
+    <album>07/12/50, episode 92</album>
+    <track>92</track>
+    <md5>c9930d8fc6ff4b6253fbadd11cdd9040</md5>
+    <title>The Iron Coffin</title>
+    <mtime>1188604468</mtime>
+    <size>14319626</size>
+    <crc32>fa940064</crc32>
+    <sha1>1518900c88d318bef726b982bf151065ebcbf0b2</sha1>
+    <length>1789.95</length>
+    <height>734</height>
+    <width>696</width>
+    <genre>Old Time Radio Detectives</genre>
+    <artist>The Adventures of Philip Marlowe</artist>
+  </file>
+  <file name="Philip_Marlowe_50-04-25_ep081_The_High_Collared_Cape.mp3" source="original">
+    <format>VBR MP3</format>
+    <creator>The Adventures of Philip Marlowe</creator>
+    <album>04/25/50, episode 81</album>
+    <track>81</track>
+    <md5>af554832c10fc0a2b90af151975e9564</md5>
+    <title>The High Collared Cape</title>
+    <mtime>1188602630</mtime>
+    <size>14397450</size>
+    <crc32>e5cca371</crc32>
+    <sha1>c1a3b1150406a6879b2ce321032c29e47b1e034b</sha1>
+    <length>1799.68</length>
+    <height>734</height>
+    <width>696</width>
+    <genre>Old Time Radio Detectives</genre>
+    <artist>The Adventures of Philip Marlowe</artist>
+  </file>
+  <file name="Philip_Marlowe_49-12-31_ep065_The_House_That_Jacqueline_Built.mp3" source="original">
+    <format>VBR MP3</format>
+    <creator>The Adventures of Philip Marlowe</creator>
+    <album>12/31/49, episode 65</album>
+    <track>65</track>
+    <md5>387eefa2c9914447cc7ffa94a2034d24</md5>
+    <title>The House That Jacqueline Built</title>
+    <mtime>1188718363</mtime>
+    <size>13643786</size>
+    <crc32>459283de</crc32>
+    <sha1>5acd0b3ecf1565bdb4ea0a657d40dd428a7ce4e1</sha1>
+    <length>1705.47</length>
+    <height>734</height>
+    <width>696</width>
+    <genre>Other</genre>
+    <artist>The Adventures of Philip Marlowe</artist>
+  </file>
+  <file name="Philip_Marlowe_50-03-28_ep077_The_Sword_of_Cebu.mp3" source="original">
+    <format>VBR MP3</format>
+    <creator>The Adventures of Philip Marlowe</creator>
+    <album>03/28/50, episode 77</album>
+    <track>77</track>
+    <md5>713418b4cfe65fa035bac28be7a17b26</md5>
+    <title>The Sword of Cebu</title>
+    <mtime>1188602033</mtime>
+    <size>17674250</size>
+    <crc32>b63f825b</crc32>
+    <sha1>c7d8e36fc919e7ea1f569d60350caca1febb416d</sha1>
+    <length>1759.71</length>
+    <height>734</height>
+    <width>696</width>
+    <genre>Old Time Radio Detectives</genre>
+    <artist>The Adventures of Philip Marlowe</artist>
+  </file>
+  <file name="Philip_Marlowe_49-03-12_024_The_Grim_Hunters.mp3" source="original">
+    <format>VBR MP3</format>
+    <creator>The Adventures of Philip Marlowe</creator>
+    <album>03/12/49, episode 24</album>
+    <track>24</track>
+    <md5>5b2c991ac86a26b1fc4b2d729bc63d98</md5>
+    <title>Grim Hunters</title>
+    <mtime>1188664984</mtime>
+    <size>14379018</size>
+    <crc32>8a1af96a</crc32>
+    <sha1>c29957fc26c77b69311c6c7f540fd12ae602a39b</sha1>
+    <length>1797.37</length>
+    <height>734</height>
+    <width>696</width>
+    <genre>Old Time Radio Detectives</genre>
+    <artist>The Adventures of Philip Marlowe</artist>
+  </file>
+  <file name="Philip_Marlowe_49-01-15_016_The_Black_Halo.mp3" source="original">
+    <format>VBR MP3</format>
+    <creator>The Adventures of Philip Marlowe</creator>
+    <album>01/15/49, episode 16</album>
+    <track>16</track>
+    <md5>bfe12e9a1302fccff323d5a33cbb2c0a</md5>
+    <title>The Black Halo</title>
+    <mtime>1188663940</mtime>
+    <size>21317642</size>
+    <crc32>f013025a</crc32>
+    <sha1>edb082ff56d24c28bd3f3e3dd1d330c29022879c</sha1>
+    <length>1776.47</length>
+    <height>734</height>
+    <width>696</width>
+    <genre>Blues</genre>
+    <artist>The Adventures of Philip Marlowe</artist>
+  </file>
+  <file name="Philip_Marlowe_49-10-22_ep055_The_Smokeout.mp3" source="original">
+    <format>VBR MP3</format>
+    <creator>The Adventures of Philip Marlowe</creator>
+    <album>10/22/49, episode 55</album>
+    <md5>d1a0943643e3ac9cbff1a912d402028b</md5>
+    <title>The Smokeout</title>
+    <mtime>1188717456</mtime>
+    <size>27062410</size>
+    <crc32>d3a9de59</crc32>
+    <sha1>1f505cdbc4c2bee69f37202c4aa96bb05df33574</sha1>
+    <length>1691.4</length>
+    <height>0</height>
+    <width>0</width>
+    <artist>The Adventures of Philip Marlowe</artist>
+  </file>
+  <file name="Philip_Marlowe_50-08-04_ep095_The_Parrots_Bed.mp3" source="original">
+    <format>VBR MP3</format>
+    <creator>The Adventures of Philip Marlowe</creator>
+    <album>08/04/50, episode 95</album>
+    <md5>a1010cc00849ae70635d4c522d0afbfb</md5>
+    <title>The Parrot's Bed</title>
+    <mtime>1188604980</mtime>
+    <size>24281098</size>
+    <crc32>e3473714</crc32>
+    <sha1>1344cb8d078490d23704a367783755fd2816f5f9</sha1>
+    <length>1517.56</length>
+    <height>0</height>
+    <width>0</width>
+    <artist>The Adventures of Philip Marlowe</artist>
+  </file>
+  <file name="Philip_Marlowe_49-04-09_ep028_The_Name_to_Remember.mp3" source="original">
+    <format>VBR MP3</format>
+    <creator>The Adventures of Philip Marlowe</creator>
+    <album>04/09/49, episode 28</album>
+    <track>28</track>
+    <md5>32d59d51abb7554e408a25a28af453d4</md5>
+    <title>Name to Remember</title>
+    <mtime>1188712610</mtime>
+    <size>14129162</size>
+    <crc32>15cfade5</crc32>
+    <sha1>dbf9cdd187e3109a918f4a6fb272882194111254</sha1>
+    <length>1764.82</length>
+    <height>0</height>
+    <width>0</width>
+    <genre>Old Time Radio Detectives</genre>
+    <artist>The Adventures of Philip Marlowe</artist>
+  </file>
+  <file name="Philip_Marlowe_49-03-26_ep026_The_Green_Flame.mp3" source="original">
+    <format>VBR MP3</format>
+    <creator>The Adventures of Philip Marlowe</creator>
+    <album>03/26/49, episode 26</album>
+    <track>26</track>
+    <md5>b4611347a4348fa434ac722d6db7f0f7</md5>
+    <title>The Green Flame</title>
+    <mtime>1188712314</mtime>
+    <size>14155786</size>
+    <crc32>70ca9f22</crc32>
+    <sha1>b3f1c1865480d8a0f6ac3028aecc95d32f795101</sha1>
+    <length>1768.23</length>
+    <height>0</height>
+    <width>0</width>
+    <genre>Old Time Radio Detectives</genre>
+    <artist>The Adventures of Philip Marlowe</artist>
+  </file>
+  <file name="Philip_Marlowe_50-01-07_ep066_The_Torch_Carriers.mp3" source="original">
+    <format>VBR MP3</format>
+    <creator>The Adventures of Philip Marlowe</creator>
+    <album>01/07/50, episode 66</album>
+    <track>66</track>
+    <md5>5d9fbceaec1ad3eec3f39ff1c97ee28b</md5>
+    <title>The Torch Carriers</title>
+    <mtime>1188718504</mtime>
+    <size>14694410</size>
+    <crc32>003f7c30</crc32>
+    <sha1>1420324c15699d36ad49ceb08581c79b33f19e0d</sha1>
+    <length>1835.79</length>
+    <height>0</height>
+    <width>0</width>
+    <genre>Old Time Radio Detectives</genre>
+    <artist>The Adventures of Philip Marlowe</artist>
+  </file>
+  <file name="Philip_Marlowe_50-01-21_ep068_The_Bid_for_Freedom.mp3" source="original">
+    <format>VBR MP3</format>
+    <creator>The Adventures of Philip Marlowe</creator>
+    <album>01/21/50, episode 68</album>
+    <track>68</track>
+    <md5>372eacf47e5faf236b35ae634ec6d04c</md5>
+    <title>The Bid for Freedom</title>
+    <mtime>1188718787</mtime>
+    <size>14614538</size>
+    <crc32>4ce2c30f</crc32>
+    <sha1>fc48394390c0c8821dff6f2ed2316cf4bd55fd2e</sha1>
+    <length>1825.83</length>
+    <height>0</height>
+    <width>0</width>
+    <genre>Old Time Radio Detectives</genre>
+    <artist>The Adventures of Philip Marlowe</artist>
+  </file>
+  <file name="Philip_Marlowe_49-04-02_ep027_The_Last_Laugh.mp3" source="original">
+    <format>VBR MP3</format>
+    <creator>The Adventures of Philip Marlowe</creator>
+    <album>04/02/49, episode 27</album>
+    <track>27</track>
+    <md5>e5c863f24a4fa7fc021234db62580b88</md5>
+    <title>The Last Laugh</title>
+    <mtime>1188712457</mtime>
+    <size>14157834</size>
+    <crc32>cd09a645</crc32>
+    <sha1>d18628b22911ebb557832d3dab35f87f8105e368</sha1>
+    <length>1768.43</length>
+    <height>0</height>
+    <width>0</width>
+    <genre>Old Time Radio Detectives</genre>
+    <artist>The Adventures of Philip Marlowe</artist>
+  </file>
+  <file name="Philip_Marlowe_50-01-14_ep067_The_Covered_Bridge.mp3" source="original">
+    <format>VBR MP3</format>
+    <creator>The Adventures of Philip Marlowe</creator>
+    <album>01/14/50, episode 67</album>
+    <track>67</track>
+    <md5>3641869a46f68e65958e11b26d181641</md5>
+    <title>The Covered Bridge</title>
+    <mtime>1188718645</mtime>
+    <size>14706698</size>
+    <crc32>603ec011</crc32>
+    <sha1>527080765f7a1abd911a325b07c649170c937a6c</sha1>
+    <length>1837.41</length>
+    <height>0</height>
+    <width>0</width>
+    <genre>Old Time Radio Detectives</genre>
+    <artist>The Adventures of Philip Marlowe</artist>
+  </file>
+  <file name="OTRR_Philip_Marlowe_Singles.jpg" source="original">
+    <format>JPEG</format>
+    <title>Adventures of Philip Marlowe</title>
+    <md5>28d9dba1968bf5ac298f90be290f0ac3</md5>
+    <mtime>1188664997</mtime>
+    <size>60516</size>
+    <crc32>6021a278</crc32>
+    <sha1>59903a86c7285650ad1cd15fdd1136a84270063a</sha1>
+    <rotation>0</rotation>
+  </file>
+  <file name="OTRR_Philip_Marlowe_Singles_reviews.xml" source="metadata">
+    <format>Metadata</format>
+    <mtime>1462613427</mtime>
+    <size>9577</size>
+    <md5>7b11c69c4dbecfc3b3a9792266b4259d</md5>
+    <crc32>594a3dc8</crc32>
+    <sha1>6e301ce2a7dae8832b12449afe795abfd34cbb14</sha1>
+  </file>
+  <file name="OTRR_Philip_Marlowe_Singles_meta.xml" source="metadata">
+    <format>Metadata</format>
+    <mtime>1462613426</mtime>
+    <size>12713</size>
+    <md5>716d02c7b0d7d82b2a70621ee80a163f</md5>
+    <crc32>2aa9ff57</crc32>
+    <sha1>529d78d81ebb717b28ec014c94703e0d0932f3db</sha1>
+  </file>
+  <file name="OTRR_Philip_Marlowe_Singles_archive.torrent" source="metadata">
+    <btih>411a54f4517dedd91e2e39d88159a7ee369d9f70</btih>
+    <mtime>1462613434</mtime>
+    <size>57814</size>
+    <md5>5949823680a9695e0cddf14f65620f16</md5>
+    <crc32>8ea1c739</crc32>
+    <sha1>3f9a62ca8b7db90a684cbe70e7846b92cfe6682a</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="OTRR_Philip_Marlowe_Singles_files.xml" source="metadata">
+    <format>Metadata</format>
+    <md5>7ac96b3632b3b1a73b16b0783c3f07d1</md5>
+  </file>
+</files>

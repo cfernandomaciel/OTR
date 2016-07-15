@@ -1,0 +1,18 @@
+{
+  "name": "webservices-player",
+  "description": "Webservices para o projeto PIRadio",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app"
+  },
+  "dependencies": {
+    "express": "2.*",
+    "google-calendar": "*",
+    "node-fetch": "^1.5.3",
+    "xml2js": "^0.4.17"
+  },
+  "devDependencies": {
+    "request": "^2.73.0"
+  }
+}
