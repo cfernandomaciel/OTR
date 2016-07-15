@@ -67,8 +67,10 @@
             <md-card-content>              
               
               <div style="width: 713px; height: 368px;" ">
-                <div class="radio-container">
-                  <h3><span class="md-body-2">&nbsp;&nbsp;{{program.name}}</span></h3>  
+                <div class="radio-container" align="center">
+
+                  <h3><span class="md-body-2"><marquee>|....Now {{marquee}} ---- {{program.name}}....|</marquee></span></h3>  
+                  <h3><span ng-click="toggleSong()" class="md-body-2">[{{toggle}}]</span></h3>  
                 </div>
               </div>
               
