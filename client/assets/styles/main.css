@@ -44,17 +44,25 @@ md-toast.flash {
 }
 
 .radio {  
-  background-image: url("../../assets/img/old-radio.jpg");
+ /* background-image: url("../../assets/img/old-radio.jpg");
   background-size: 60%;
-  background-repeat: no-repeat;
+  background-repeat: no-repeat;*/
+  width: 60%;
+}
+
+.radio-card {
+  /*position: absolute;*/
+  z-index: 1000;
 }
 
 .radio-container {
+    z-index: 1001;
     border: 1px solid red;  
-    margin-top: 211px;
-    margin-left: 176px;
-    width: 367px;
-    height: 95px;
+    position: absolute;
+    margin-left: 33%;
+    margin-top: 17%;   
+    width: 25%;
+    height: 6%;
     color: rgb(255, 255, 255);
     background-color: #000000;
 }

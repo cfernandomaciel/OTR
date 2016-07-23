@@ -18,7 +18,7 @@
                       No matches found for "{{searchText}}".
                     </md-not-found>
                 </md-autocomplete>       
-                <md-list id="vertical-container" class="md-sidenav-overflow">  
+                <md-list id="vertical-container"  class="md-sidenav-overflow">  
                     <md-list-item class="md-3-line" ng-repeat="show in shows" ng-click="getShow(show.value)" ng-show="searching">
                     <div class="md-list-item-text" layout="column">
                       <h3>{{ show.display }}</h3>          
@@ -63,17 +63,24 @@
          </md-card>
         </div>
         <div layout"column" class="pokemon-stats" ng-controller="radioCtrl">
-          <md-card ng-show="program.name"  class="radio">
-            <md-card-content>              
-              
-              <div style="width: 713px; height: 368px;" ">
-                <div class="radio-container" align="center">
-
-                  <h3><span class="md-body-2"><marquee>|....Now {{marquee}} ---- {{program.name}}....|</marquee></span></h3>  
-                  <h3><span ng-click="toggleSong()" class="md-body-2">[{{toggle}}]</span></h3>  
+          <md-card ng-show="program.name">
+            <md-card-content>             
+              <div>
+                  <div class="radio-container" align="center">
+                    <h3><span class="md-body-2"><marquee>|....Now {{marquee}} ---- {{program.name}}....|</marquee></span></h3>  
+                    <h3><span ng-click="toggleSong()" class="md-body-2">[{{toggle}}]</span></h3>  
+                  </div>
+                  <div class="radio-card" align="center"><img class="radio" src="../../assets/img/old-radio.jpg"></div>                
+                <div>
+                      <md-slider-container>
+                        <span>R</span>
+                        <md-slider flex="" min="0" max="255" ng-model="color.red" aria-label="red" id="episode-slide"></md-slider>
+                        <md-input-container>
+                          <input flex="" type="number" ng-model="color.red" aria-label="red" aria-controls="episode-slide">
+                        </md-input-container>
+                      </md-slider-container>
                 </div>
               </div>
-              
             </md-card-content>
           </md-card>
         </div>

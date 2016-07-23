@@ -371,6 +371,8 @@ function radioCtrl($rootScope, $scope, AppState, $filter, $q, $http) {
 
   $scope.program = {}
   $scope.musique = null;
+  $scope.toggle = "pause";
+  $scope.marquee = "Playing";
   
 
   $rootScope.$on("turnRadioOnSingleEp", function(evt, data) {
@@ -378,6 +380,7 @@ function radioCtrl($rootScope, $scope, AppState, $filter, $q, $http) {
 
     if($scope.musique != null) {
       $scope.musique.stop();
+      $scope.toggle = "play";
     }
     $scope.playEpisode();
   });
@@ -395,6 +398,14 @@ function radioCtrl($rootScope, $scope, AppState, $filter, $q, $http) {
     });
 
     $scope.musique.play();
+    $scope.toggle = "pause";
+  }
+
+  $scope.toggleSong = function() {
+
+    $scope.musique.toggle();
+    $scope.toggle = ($scope.toggle == "pause") ? "play" : "pause";
+    $scope.marquee = ($scope.marquee == "Paused") ? "Playing" : "Paused";
   }
 }
 angular.module('app').controller('frontEndCtrl', frontEndCtrl);
